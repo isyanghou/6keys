@@ -1,0 +1,93 @@
+# Docker Compose configuration for Six Keys Criticality
+# Provides development and production environments
+
+version: '3.8'
+
+services:
+  # Main application service
+  sixkeys:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: sixkeys-app
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+      - ./notebooks:/app/notebooks
+    environment:
+      - PYTHONPATH=/app
+      - SIXKEYS_DATA_PATH=/app/data
+      - SIXKEYS_RESULTS_PATH=/app/results
+    networks:
+      - sixkeys-network
+
+  # Jupyter Lab service for interactive development
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: sixkeys-jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/app/notebooks
+      - ./data:/app/data
+      - ./results:/app/results
+      - ./examples:/app/examples
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=sixkeys
+    command: >
+      bash -c "pip install jupyterlab &&
+               jupyter lab --ip=0.0.0.0 --port=8888 --no-browser 
+               --allow-root --NotebookApp.token=sixkeys
+               --NotebookApp.password='' --notebook-dir=/app"
+    networks:
+      - sixkeys-network
+
+  # Development service with source code mounted
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    container_name: sixkeys-dev
+    volumes:
+      - .:/app
+      - ./data:/app/data
+      - ./results:/app/results
+    environment:
+      - PYTHONPATH=/app
+      - SIXKEYS_DEV_MODE=true
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    networks:
+      - sixkeys-network
+
+  # Testing service
+  test:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    container_name: sixkeys-test
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app
+    command: >
+      bash -c "pip install pytest pytest-cov black flake8 mypy &&
+               pytest tests/ --cov=sixkeys --cov-report=html --cov-report=term"
+    networks:
+      - sixkeys-network
+
+networks:
+  sixkeys-network:
+    driver: bridge
+
+volumes:
+  sixkeys-data:
+  sixkeys-results:

@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >
+  Six Keys Criticality: A Framework for Neural
+  Consciousness State Analysis
+message: >
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: You Yang
+    family-names: Hou
+    email: isyanghou@gmail.com
+    orcid: 'https://orcid.org/0009-0000-7041-8574'
+identifiers:
+  - type: url
+    value: 'https://github.com/isyanghou/6Keys'
+repository-code: 'https://github.com/isyanghou/6Keys'
+url: 'https://github.com/isyanghou/6Keys'
+abstract: >
+  Six Keys Criticality is an innovative neuroscience
+  theoretical framework that quantifies and analyzes
+  critical state transitions in neural systems through
+  six key indicators (ζ₁-ζ₆). This project provides a
+  complete Python implementation supporting the full
+  workflow from theoretical modeling to actual data
+  analysis.
+keywords:
+  - neuroscience
+  - consciousness
+  - criticality
+  - neural-networks
+  - brain-analysis
+  - hopf-oscillator
+  - information-theory
+  - complex-systems
+  - phase-transitions
+  - neural-dynamics
+license: BSD-3-Clause
+commit: main
+version: 0.1.0
+date-released: '2025-06-28'
