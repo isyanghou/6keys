@@ -287,8 +287,8 @@ pytest tests/
 ## 📞 聯繫方式
 
 - **作者**：You Yang Hou
-- **Email**：[your.email@example.com]
-- **GitHub**：[https://github.com/yourusername/sixkeys]
+- **Email**：[isyanghou@gmail.com]
+- **GitHub**：[https://github.com/isyanghou/6keys]
 
 ## 🙏 致謝
 
