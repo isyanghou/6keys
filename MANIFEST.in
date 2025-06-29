@@ -1,0 +1,135 @@
+# Include the README and other important files
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include requirements.txt
+include pyproject.toml
+include setup.cfg
+
+# Include all Python files
+recursive-include sixkeys *.py
+recursive-include sixkeys *.pyx
+recursive-include sixkeys *.pxd
+
+# Include data files
+recursive-include sixkeys/data *.yaml
+recursive-include sixkeys/data *.json
+recursive-include sixkeys/data *.csv
+recursive-include sixkeys/data *.txt
+
+# Include examples
+recursive-include sixkeys/examples *.py
+recursive-include examples *.py
+recursive-include examples *.ipynb
+recursive-include examples *.md
+
+# Include notebooks
+recursive-include notebooks *.ipynb
+recursive-include notebooks *.md
+recursive-include notebooks *.py
+
+# Include documentation
+recursive-include docs *.rst
+recursive-include docs *.md
+recursive-include docs *.py
+recursive-include docs *.txt
+recursive-include docs *.bat
+recursive-include docs Makefile
+
+# Include test files (optional, usually excluded from distribution)
+# recursive-include tests *.py
+
+# Include scripts
+recursive-include scripts *.py
+recursive-include scripts *.sh
+recursive-include scripts *.bat
+
+# Include configuration files
+include *.cfg
+include *.ini
+include *.toml
+include *.yaml
+include *.yml
+
+# Include version file if generated
+include sixkeys/_version.py
+
+# Exclude unwanted files
+exclude .gitignore
+exclude .pre-commit-config.yaml
+exclude tox.ini
+exclude .coverage
+exclude .coveragerc
+
+# Exclude development and build artifacts
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *.pyd
+global-exclude __pycache__
+global-exclude .git*
+global-exclude .DS_Store
+global-exclude *.so
+global-exclude *.dylib
+global-exclude *.dll
+global-exclude .pytest_cache
+global-exclude .mypy_cache
+global-exclude .tox
+global-exclude build
+global-exclude dist
+global-exclude *.egg-info
+
+# Exclude temporary and backup files
+global-exclude *~
+global-exclude *.bak
+global-exclude *.swp
+global-exclude *.tmp
+global-exclude .#*
+
+# Exclude IDE files
+global-exclude .vscode
+global-exclude .idea
+global-exclude *.sublime-*
+
+# Exclude OS files
+global-exclude Thumbs.db
+global-exclude .directory
+
+# Exclude large data files (uncomment if needed)
+# global-exclude *.h5
+# global-exclude *.hdf5
+# global-exclude *.pkl
+# global-exclude *.pickle
+# global-exclude *.npy
+# global-exclude *.npz
+
+# Exclude results and outputs
+global-exclude results/*
+global-exclude outputs/*
+global-exclude *.png
+global-exclude *.jpg
+global-exclude *.jpeg
+global-exclude *.gif
+global-exclude *.svg
+global-exclude *.pdf
+
+# Include specific important files that might be excluded
+include sixkeys/py.typed
+
+# Include type stubs if any
+recursive-include sixkeys *.pyi
+
+# Include C extensions source if any
+recursive-include sixkeys *.c
+recursive-include sixkeys *.h
+
+# Include Cython files if any
+recursive-include sixkeys *.pyx
+recursive-include sixkeys *.pxd
+
+# Include package metadata
+include sixkeys/VERSION
+include sixkeys/DESCRIPTION
+
+# Include wheel metadata
+include *.whl
