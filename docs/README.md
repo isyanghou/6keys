@@ -19,8 +19,9 @@ Welcome to the complete documentation system for the Six Keys Criticality projec
 
 ## 📥 **論文下載** | **Paper Download**
 
-> **🔥 [📄 完整論文PDF下載 (中英文版)](../publications/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**  
-> **🔥 [📄 Complete Paper PDF (Chinese & English)](../publications/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**
+> **🔥 [📄 中文版論文PDF下載](../publications/六鑰臨界.pdf)**  
+> **🔥 [📄 English Paper PDF Download](../publications/Six-Key_Criticality.pdf)**  
+> **📋 [📄 完整版論文 (備用)](../publications/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**
 
 ## 🌟 主要文檔入口 | Main Documentation Portals
 
