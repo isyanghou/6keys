@@ -1,20 +1,17 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.2.0
-title: >
-  Six Keys Criticality: A Framework for Neural
-  Consciousness State Analysis
-message: >
-  If you use this software, please cite it using the
-  metadata from this file.
+cff-version: 1.1.0
+title: Six Keys Criticality: A Framework for Neural Consciousness State Analysis
+message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - given-names: You Yang
-    family-names: Hou
-    email: isyanghou@gmail.com
+  - family-names: Joe
+    given-names: Johnson
     orcid: 'https://orcid.org/0009-0000-7041-8574'
 identifiers:
+  - type: doi
+    value: '10.5281/zenodo.15805818'
   - type: url
     value: 'https://github.com/isyanghou/6Keys'
 repository-code: 'https://github.com/isyanghou/6Keys'
@@ -40,5 +37,5 @@ keywords:
   - neural-dynamics
 license: BSD-3-Clause
 commit: main
-version: 0.1.0
-date-released: '2025-06-28'
+version: v1.2.0
+date-released: '2025-07-04'
