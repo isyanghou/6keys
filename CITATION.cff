@@ -6,8 +6,8 @@ title: Six Keys Criticality: A Framework for Neural Consciousness State Analysis
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - family-names: Joe
-    given-names: Johnson
+  - family-names: Hou
+    given-names: Yang
     orcid: 'https://orcid.org/0009-0000-7041-8574'
 identifiers:
   - type: doi
