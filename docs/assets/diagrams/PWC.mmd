@@ -1,0 +1,16 @@
+flowchart TD
+  %% Core subgraph for this key
+  subgraph PWC["🔑 PWC – 相位拓撲環流 (ζ₅)"]
+    B["β₁ topo‑charge(t)"]:::state -->|判準 C_PWC| TC((Topo Winding State))
+  end
+
+  %% Mapping from topological winding to CTM distance
+  TC -->|"ζ₅ → 𝐷ʷ²<br/>w₅ = 0.12"| CTM[CTM 管道距離 𝐷ʷ]
+
+  %% Forward link to next key in the pipeline
+  CTM --> ACI["🔑 ACI – 神經‑星膠耦合 (ζ₆)"]
+
+  %% Aesthetics
+  style PWC fill:#fff4e6,stroke:#ffb266
+  style ACI fill:#f3e5d3,stroke:#8B5E3C
+  classDef state fill:#ffffff,stroke:#999999

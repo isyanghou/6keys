@@ -211,12 +211,12 @@ logs/
 results/outputs/
 results/figures/
 results/reports/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.pdf
 
 # Model files
 *.model

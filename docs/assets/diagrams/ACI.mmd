@@ -1,0 +1,16 @@
+flowchart TD
+  %% Core subgraph for this key
+  subgraph ACI["🔑 ACI – 神經星膠雙環耦合 (ζ₆)"]
+    G["gₑ𝒻𝒻(t)"]:::state -->|判準 C_ACI| CC((Coupled Cycle State))
+  end
+
+  %% Mapping from coupled‑cycle to CTM distance
+  CC -->|"ζ₆ → 𝐷ʷ²<br/>w₆ = 0.06"| CTM[CTM 管道距離 𝐷ʷ]
+
+  %% Forward link to next key in the pipeline
+  CTM --> TEB["🔑 TEB – 資訊‑功率效率 (ζ₂)"]
+
+  %% Aesthetics
+  style ACI fill:#f2e8d5,stroke:#b68d5b
+  style TEB fill:#eeeeee,stroke:#666666
+  classDef state fill:#ffffff,stroke:#999999

@@ -1,5 +1,22 @@
 # Installation Guide
 
+**📍 Navigation**: [🏠 Home](../../README.md) > [📚 Documentation Hub](README.md) > **⚙️ Installation**
+
+**⏱️ Estimated Setup Time**: 10-20 minutes | **🎯 Difficulty**: Beginner | **🎯 Goal**: Get Six Keys Criticality installed and running
+
+---
+
+## 🚨 **Quick Rescue**
+
+**Having installation problems?**
+
+| Problem | Quick Solution | Link |
+|---------|----------------|------|
+| 🔧 **Import Errors** | Check Python environment | [Common Issues](#common-issues) |
+| 📦 **Dependency Conflicts** | Use virtual environment | [Environment Setup](#environment-configuration) |
+| 💻 **Platform Issues** | Platform-specific solutions | [System Requirements](#system-requirements) |
+| ❓ **General Help** | Step-by-step troubleshooting | [FAQ](faq.md) |
+
 This guide will help you install and configure the Six Keys Criticality framework in different environments.
 
 ## 📝 Project Information
@@ -248,3 +265,48 @@ After installation, we recommend:
 ---
 
 **Tip**: We recommend installing in a virtual environment to avoid conflicts with other projects' dependencies.
+
+---
+
+## 🎉 **Installation Complete! What's Next?**
+
+**Choose your next step:**
+
+### 🚀 **Quick Experience**
+- [🎮 Quick Start Guide](quickstart.md) - Get running in 5 minutes
+- [🎯 Basic Tutorial](../tutorials/basic_tutorial.md) - Step-by-step learning
+- [🎨 Interactive Examples](../../examples/) - Hands-on demonstrations
+
+### ✅ **Verify Installation**
+- [🧪 Run Test Suite](#run-test-suite) - Ensure everything works
+- [📊 Basic Functionality Test](#basic-functionality-test) - Quick verification
+- [❓ Troubleshooting](faq.md) - Solve common issues
+
+### 📚 **Learn the Theory**
+- [🧠 Theoretical Background](theory.md) - Understand the science
+- [📚 Complete Academic Paper](paper/) - Full research documentation
+- [🧮 Mathematical Foundations](paper/A-0_Mathematical_Derivations.md) - Detailed proofs
+
+---
+
+## 📚 **Navigation Bar**
+
+### 📍 **Current Location**
+**Documentation Hub** > **Installation Guide**
+
+### 🔗 **Related Pages**
+- [🚀 Quick Start Guide](quickstart.md) - Get started immediately
+- [❓ FAQ](faq.md) - Common questions and solutions
+- [🧠 Theory Background](theory.md) - Understand the foundations
+- [📚 Documentation Hub](README.md) - Return to main documentation
+
+### 🆘 **Help & Support**
+- [🔧 **Technical Support**](mailto:isyanghou@gmail.com) - Direct assistance
+- [🐛 **GitHub Issues**](https://github.com/isyanghou/6Keys/issues) - Report bugs or request features
+- [💭 **GitHub Discussions**](https://github.com/isyanghou/6Keys/discussions) - Community forum
+- [📖 **Installation FAQ**](faq.md#installation-issues) - Installation-specific help
+
+### 🌐 **Other Resources**
+- [🇨🇳 **Chinese Version**](../zh/installation.md) - 中文版安装指南
+- [🏠 **Project Home**](../../README.md) - Main project page
+- [📚 **Complete Documentation**](../) - Full documentation index

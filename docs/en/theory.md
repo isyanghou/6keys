@@ -1,5 +1,20 @@
 # Six Keys Criticality Theory
 
+**📍 Navigation**: [🏠 Home](../../README.md) > [📚 Documentation Hub](README.md) > **🧠 Theory**
+
+**⏱️ Reading Time**: 30-45 minutes | **🎯 Difficulty**: Advanced | **🎯 Goal**: Understand the theoretical foundations of Six Keys Criticality
+
+---
+
+## 🧭 **Theory Navigation**
+
+| Section | Content | Difficulty |
+|---------|---------|------------|
+| [🔬 **Core Concepts**](#theoretical-overview) | Critical transition theory, core assumptions | Intermediate |
+| [🧮 **Mathematical Foundations**](#six-core-indicators) | Six indicators mathematical models | Advanced |
+| [🧬 **Scientific Basis**](#physiological-significance) | Neurophysiological interpretations | Intermediate |
+| [🎯 **Practical Applications**](#applications) | Real-world usage scenarios | Beginner |
+
 This document provides a comprehensive overview of the theoretical foundations, mathematical derivations, and scientific basis of the Six Keys Criticality framework.
 
 ## Theoretical Overview
@@ -510,3 +525,28 @@ def benchmark_analysis():
 if __name__ == '__main__':
     benchmark_analysis()
 ```
+
+---
+
+## 📚 **Navigation Bar**
+
+### 📍 **Current Location**
+**Documentation Hub** > **Theoretical Background**
+
+### 🔗 **Related Pages**
+- [🚀 Quick Start Guide](quickstart.md) - Apply theory in practice
+- [🧪 Experiment Guide](experiments.md) - Design research experiments
+- [📊 Visualization Tutorial](visualization.md) - Visualize theoretical concepts
+- [📚 Documentation Hub](README.md) - Return to main documentation
+
+### 🆘 **Help & Support**
+- [❓ **Common Questions**](faq.md) - Theory-related FAQ
+- [💬 **Academic Discussion**](mailto:isyanghou@gmail.com) - Theoretical discussions
+- [📖 **Citation Guide**](paper/F_Content_Licensing_Terms.md) - How to cite this work
+- [💭 **GitHub Discussions**](https://github.com/isyanghou/6Keys/discussions) - Community forum
+
+### 🌐 **Other Resources**
+- [🇨🇳 **Chinese Version**](../zh/theory.md) - 中文版理论背景
+- [🏠 **Project Home**](../../README.md) - Main project page
+- [📚 **Complete Documentation**](../) - Full documentation index
+- [📄 **Complete Academic Paper**](paper/) - Full research paper

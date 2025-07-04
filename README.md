@@ -9,140 +9,82 @@
 [![Docker](https://img.shields.io/badge/docker-supported-blue.svg)](https://hub.docker.com/r/sixkeys/sixkeys)
 [![Conda](https://img.shields.io/badge/conda-supported-green.svg)](https://anaconda.org/conda-forge/sixkeys)
 
-[🇨🇳 中文文檔](docs/zh/) | [🇺🇸 English Docs](docs/en/) | [📚 API Reference](docs/api/) | [🚀 Quick Start](docs/zh/quickstart.md)
+## 📥 **論文下載** | **Paper Download**
+
+> **🔥 [📄 完整論文PDF下載 (中文)](https://github.com/isyanghou/6Keys/releases/latest/download/Six-Key_Criticality_Neural_Manifold_Path_to_Consciousness_ZH.pdf)**  
+> **🔥 [📄 Complete Paper PDF (English)](https://github.com/isyanghou/6Keys/releases/latest/download/Six-Key_Criticality_Neural_Manifold_Path_to_Consciousness_EN.pdf)**
+
+## 🧭 **快速導航** | **Quick Navigation**
+
+| 用戶類型 | 推薦路徑 | 說明 |
+|---------|---------|------|
+| 🆕 **新手用戶** | [🚀 快速開始](docs/quickstart.md) → [❓ 常見問題](docs/faq.md) | 5分鐘上手指南 |
+| 🧠 **理論研究者** | [📚 完整論文](docs/zh/paper/) → [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) | 深入理論背景 |
+| 👨‍💻 **程式開發者** | [📚 API文檔](docs/api/) → [🔧 開發者指南](docs/developers.md) | 技術實現細節 |
+| 🔬 **實驗驗證者** | [🧪 實驗指南](docs/experiments.md) → [📊 可視化教程](docs/visualization.md) | 實驗設計方法 |
+
+**🌐 語言版本**: [🇨🇳 中文文檔](docs/zh/) | [🇺🇸 English Docs](docs/en/) | **📖 完整導航**: [📚 文檔中心](docs/)
+
+---
+
+## 🇺🇸 **For English Visitors**
+
+**Welcome! This project provides comprehensive English documentation.**
+
+| User Type | Recommended Path | Description |
+|-----------|------------------|-------------|
+| 🆕 **New Users** | [🚀 Quick Start](docs/en/quickstart.md) → [❓ FAQ](docs/en/faq.md) | 5-minute getting started guide |
+| 🧠 **Researchers** | [📚 Complete Paper](docs/en/paper/) → [🧮 Mathematical Derivations](docs/en/paper/A_Mathematical_Derivations_Detailed.md) | In-depth theoretical background |
+| 👨‍💻 **Developers** | [📚 API Docs](docs/api/) → [🔧 Developer Guide](docs/developers.md) | Technical implementation details |
+| 🔬 **Experimenters** | [🧪 Experiment Guide](docs/en/experiments.md) → [📊 Visualization Tutorial](docs/en/visualization.md) | Experimental design methods |
+
+**📖 English Documentation Hub**: [📚 English Docs Center](docs/en/) | **🏠 Main Navigation**: [📚 All Documentation](docs/)
 
 ## 🎯 項目概述
 
-六鑰臨界是一個創新的神經科學理論框架，通過六個關鍵指標（ζ₁-ζ₆）來量化和分析神經系統的臨界狀態轉換。本項目提供了完整的Python實現，支持從理論建模到實際數據分析的全流程。
+**Six Keys Criticality** 是一個基於臨界轉換理論的神經意識狀態分析框架。通過六個核心指標（ζ₁-ζ₆）量化神經網絡的臨界性特徵，為意識研究提供理論視角和實用工具。
 
 ### 🔑 六個核心指標
 
-1. **FELC (ζ₁)** - 自由能極限環 (Free Energy Limit Cycle)
-2. **TEB (ζ₂)** - 資訊-能耗效率 (Thermodynamic Efficiency Balance)
-3. **RFI (ζ₃)** - Ricci曲率臨界流 (Ricci Flow Index)
-4. **ECGP (ζ₄)** - 因果滲流 (Effective Causal Graph Percolation)
-5. **PWC (ζ₅)** - 相位拓撲環流 (Phase-Wrapped Circulation)
-6. **ACI (ζ₆)** - 神經-星膠耦合臨界 (Astrocyte-Coupling Index)
+| 指標 | 名稱 | 描述 |
+|------|------|------|
+| **ζ₁** | **FELC** | 自由能極限環 (Free Energy Limit Cycle) |
+| **ζ₂** | **TEB** | 資訊-能耗效率 (Thermodynamic Efficiency Balance) |
+| **ζ₃** | **RFI** | Ricci曲率臨界流 (Ricci Flow Index) |
+| **ζ₄** | **ECGP** | 因果滲流 (Effective Causal Graph Percolation) |
+| **ζ₅** | **PWC** | 相位拓撲環流 (Phase-Wrapped Circulation) |
+| **ζ₆** | **ACI** | 神經-星膠耦合臨界 (Astrocyte-Coupling Index) |
 
 ## 🚀 快速開始 | Quick Start
 
-### 📦 安裝方式 | Installation Options
+### 📦 安裝
 
-#### 方法一：PyPI 安裝 (推薦)
 ```bash
-# 基本安裝 | Basic installation
+# 推薦方式：pip 安裝
 pip install sixkeys
 
-# 完整安裝 (包含所有可選依賴) | Full installation
-pip install "sixkeys[all]"
+# 或從源碼安裝
+git clone https://github.com/isyanghou/6Keys.git
+cd 6Keys && pip install -e .
 ```
 
-#### 方法二：Conda 安裝
-```bash
-# 創建環境並安裝 | Create environment and install
-conda env create -f environment.yml
-conda activate sixkeys
-```
-
-#### 方法三：Docker 部署
-```bash
-# 拉取鏡像 | Pull image
-docker pull sixkeys/sixkeys:latest
-
-# 或使用 Docker Compose | Or use Docker Compose
-docker-compose up jupyter  # 啟動 Jupyter Lab
-```
-
-#### 方法四：源碼安裝
-```bash
-git clone https://github.com/yourusername/sixkeys.git
-cd sixkeys
-pip install -e ".[dev]"  # 開發版本
-```
-
-### ✅ 安裝驗證 | Installation Verification
-```python
-import sixkeys as sk
-print(f"Six Keys version: {sk.__version__}")
-
-# 快速測試 | Quick test
-analyzer = sk.SixKeysAnalyzer()
-result = analyzer.analyze_simulated_data(duration=1.0)
-print(f"Test completed: D_w = {result.d_total:.3f}")
-```
-
-### 💡 基本使用 | Basic Usage
+### 🎮 基本使用
 
 ```python
-import sixkeys as sk
-import matplotlib.pyplot as plt
+import numpy as np
+from sixkeys import SixKeysAnalyzer
 
-# 創建分析器 | Create analyzer
-analyzer = sk.SixKeysAnalyzer(theta_c=1.0, random_state=42)
+# 創建分析器並分析數據
+analyzer = SixKeysAnalyzer()
+data = np.random.randn(1000, 64)  # 示例神經數據
+results = analyzer.analyze(data)
 
-# 分析不同意識狀態 | Analyze different consciousness states
-states = ['awake', 'light_sedation', 'deep_anesthesia']
-results = {}
-
-for state in states:
-    result = analyzer.analyze_simulated_data(
-        consciousness_state=state,
-        duration=5.0  # 5 seconds
-    )
-    results[state] = result
-    print(f"{state}: D_w = {result.d_total:.3f}")
-
-# 可視化結果 | Visualize results
-fig = analyzer.plot_radar_chart(results)
-plt.show()
+# 查看六個核心指標
+for key, value in results.items():
+    print(f"{key}: {value:.4f}")
 ```
 
-### 🔬 進階分析 | Advanced Analysis
-
-```python
-# 單個指標分析 | Individual indicator analysis
-from sixkeys.core import FELC, TEB, RFI
-
-felc = FELC(sim_time=10.0, dt=0.01)
-felc_results = felc.analyze_states()
-felc.plot_results(felc_results)
-
-# 自定義參數 | Custom parameters
-custom_analyzer = sk.SixKeysAnalyzer(
-    theta_c=0.8,
-    weights={'zeta1': 0.3, 'zeta2': 0.2, 'zeta3': 0.15, 
-             'zeta4': 0.15, 'zeta5': 0.1, 'zeta6': 0.1}
-)
-```
-
-### 🎨 可視化演示 | Visualization Demos
-
-```python
-# 快速演示 | Quick demos
-from sixkeys.demos import (
-    radar_demo,           # 六鑰雷達圖 | Six-key radar chart
-    public_data_demo,     # 公開數據重分析 | Public data reanalysis
-    cross_validation_demo # 交叉驗證分析 | Cross-validation analysis
-)
-
-radar_demo()
-public_data_demo()
-cross_validation_demo()
-```
-
-### 🐳 Docker 使用 | Docker Usage
-
-```bash
-# 啟動 Jupyter Lab | Start Jupyter Lab
-docker-compose up jupyter
-# 訪問 http://localhost:8888 (token: sixkeys)
-
-# 開發模式 | Development mode
-docker-compose run dev
-
-# 運行測試 | Run tests
-docker-compose run test
-```
+> 📖 **詳細教程**: [完整安裝指南](docs/installation.md) | [使用教程](docs/tutorials/) | [API文檔](docs/api/)
 
 ## 📊 主要功能 | Key Features
 
@@ -177,129 +119,106 @@ docker-compose run test
 
 ```
 sixkeys/
-├── sixkeys/              # 主要Python包 | Main Python package
-│   ├── core/            # 核心算法模組 | Core algorithm modules
-│   │   ├── felc.py      # ζ₁ 自由能極限環 | Free Energy Limit Cycle
-│   │   ├── teb.py       # ζ₂ 資訊-能耗效率 | Thermodynamic Efficiency
-│   │   ├── rfi.py       # ζ₃ Ricci曲率流 | Ricci Flow Index
-│   │   ├── ecgp.py      # ζ₄ 因果滲流 | Causal Graph Percolation
-│   │   ├── pwc.py       # ζ₅ 相位環流 | Phase-Wrapped Circulation
-│   │   └── aci.py       # ζ₆ 星膠耦合 | Astrocyte-Coupling Index
-│   ├── analysis/        # 分析工具 | Analysis tools
-│   ├── utils/           # 工具函數 | Utility functions
-│   └── demos/           # 演示模組 | Demo modules
-├── docs/                # 文檔 | Documentation
-│   ├── zh/             # 中文文檔 | Chinese docs
-│   ├── en/             # 英文文檔 | English docs
-│   └── api/            # API文檔 | API reference
-├── notebooks/           # Jupyter筆記本 | Jupyter notebooks
-├── examples/            # 使用示例 | Usage examples
-├── tests/              # 測試套件 | Test suite
-├── environment.yml     # Conda環境 | Conda environment
-├── Dockerfile          # Docker配置 | Docker configuration
-└── docker-compose.yml  # Docker Compose配置
+├── sixkeys/              # 核心Python包
+│   ├── core/            # 六個核心指標算法 (ζ₁-ζ₆)
+│   ├── analysis/        # 分析工具
+│   └── demos/           # 演示模組
+├── docs/                # 完整文檔系統
+│   ├── zh/paper/       # 中文完整論文
+│   ├── en/paper/       # English complete paper
+│   └── api/            # API參考文檔
+├── examples/            # 使用示例
+└── tests/              # 測試套件
 ```
 
-## 🔬 理論背景
+> 📖 **詳細結構**: [完整項目結構說明](docs/project-structure.md)
 
-六鑰臨界理論基於以下核心概念：
+## 🔬 理論背景 | Theoretical Background
 
-- **臨界轉換理論**：神經系統在不同意識狀態間的相變
-- **自由能原理**：大腦的預測編碼和能量最小化
-- **網絡拓撲學**：神經網絡的幾何和拓撲性質
-- **資訊理論**：神經信號的熵和複雜性
+六鑰臨界理論基於臨界轉換理論、自由能原理、網絡拓撲學和資訊理論，通過六個核心指標量化神經系統的臨界狀態轉換。
 
-## 🎨 可視化演示模組
+> 📖 **深入了解**: [理論背景詳解](docs/theory.md) | [數學推導](docs/mathematical-foundations.md)
 
-`sixkeys.demos` 套件提供了三個可選的可視化演示模組：
+## 🎨 可視化演示 | Visualization Demos
 
-### 1. 六鑰統合雷達圖 (SixKeysRadarChart)
-- 模擬六個關鍵指標的無量綱化座標 ζ_i
-- 生成二值臨界標誌 C_i 和加權距離 D_w_i
-- 創建雷達圖和總距離條形圖
-- 支援多種意識狀態比較
-
-### 2. 公開資料重分析 (PublicDataAnalysis)
-- 模擬五個公開數據集的 Dw 分佈
-- 分析清醒與低意識狀態的差異
-- 生成箱線圖和統計摘要
-- 執行統計顯著性檢驗
-
-### 3. 交叉驗證分析 (CrossValidationAnalysis)
-- 生成六個指標的合成時間序列
-- 計算不同意識狀態下的相關矩陣
-- 創建並排熱力圖可視化
-- 分析指標間的相關性變化
-
-### 命令行界面
 ```bash
-# 運行所有演示
+# 運行可視化演示
 python examples/demo_visualization.py
 
-# 運行特定模組
-python examples/demo_visualization.py --module radar
-
-# 保存結果而不顯示圖形
-python examples/demo_visualization.py --no-plots --save --output results/
-```
-
-### 依賴需求
-演示模組需要額外的依賴：
-```bash
+# 安裝可視化依賴
 pip install matplotlib seaborn scipy pandas
 ```
 
-## 📚 文檔和教程
+**演示內容**:
+- **六鑰雷達圖** - 六個指標的可視化比較
+- **公開數據重分析** - 現有數據集的重新分析
+- **交叉驗證分析** - 指標間相關性分析
 
-- [完整文檔](https://sixkeys.readthedocs.io/)
-- [API參考](https://sixkeys.readthedocs.io/en/latest/api/)
-- [教程筆記本](./notebooks/)
-- [理論背景](./docs/theory/)
+> 📖 **詳細說明**: [可視化教程](docs/visualization.md)
 
-詳細的文檔和教程請參見 `docs/` 目錄和 `sixkeys/demos/README.md`。
+## 📚 文檔和教程 | Documentation & Tutorials
 
-## 🤝 貢獻指南
+### 🎯 按需求快速定位 | Quick Access by Needs
 
-我們歡迎社群貢獻！請參閱 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何參與項目開發。
+<details>
+<summary><strong>🆕 我是新手，想快速上手</strong></summary>
 
-### 開發環境設置
+**推薦學習路徑**:
+1. [🚀 快速開始](docs/quickstart.md) - 5分鐘上手
+2. [⚙️ 安裝指南](docs/installation.md) - 詳細安裝步驟
+3. [❓ 常見問題](docs/faq.md) - 解決常見疑問
+4. [📊 可視化教程](docs/visualization.md) - 學習結果展示
+
+**🔗 遇到問題？** → [❓ FAQ](docs/faq.md) | [💬 聯繫我們](mailto:isyanghou@gmail.com)
+</details>
+
+<details>
+<summary><strong>🧠 我想深入了解理論</strong></summary>
+
+**推薦學習路徑**:
+1. [🧠 理論背景](docs/theory.md) - 理論基礎概述
+2. [📚 完整論文](docs/zh/paper/) - 中文完整論文
+3. [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) - 詳細數學證明
+4. [🔬 實驗驗證](docs/experiments.md) - 實驗設計方法
+
+**🌐 其他語言**: [🇺🇸 English Paper](docs/en/paper/)
+</details>
+
+<details>
+<summary><strong>👨‍💻 我要開發和集成</strong></summary>
+
+**推薦學習路徑**:
+1. [📚 API文檔](docs/api/) - 完整API參考
+2. [🔧 開發者指南](docs/developers.md) - 開發環境設置
+3. [🏗️ 項目結構](docs/project-structure.md) - 代碼組織架構
+4. [🧪 測試指南](docs/developers.md#測試指南) - 測試和驗證
+
+**🔗 開發資源**: [GitHub](https://github.com/isyanghou/6Keys) | [Issues](https://github.com/isyanghou/6Keys/issues)
+</details>
+
+### 🌟 核心文檔入口 | Core Documentation
+
+| 文檔類型 | 連結 | 適合對象 |
+|---------|------|----------|
+| 📖 **快速開始** | [開始使用](docs/quickstart.md) | 所有用戶 |
+| 📚 **完整論文** | [中文](docs/zh/paper/) \| [English](docs/en/paper/) | 研究者 |
+| 🔧 **API文檔** | [技術文檔](docs/api/) | 開發者 |
+| ❓ **常見問題** | [FAQ](docs/faq.md) | 所有用戶 |
+
+> 📖 **完整導航**: [📚 文檔中心](docs/) - 包含所有文檔的詳細索引和導航
+
+## 🤝 貢獻指南 | Contributing
+
+我們歡迎社群貢獻！請參閱 [CONTRIBUTING.md](CONTRIBUTING.md) 了解詳細信息。
 
 ```bash
-# 克隆倉庫
-git clone https://github.com/yourusername/sixkeys.git
-cd sixkeys
-
-# 創建虛擬環境
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# 安裝開發依賴
-pip install -e ".[dev]"
-
-# 運行測試
-pytest tests/
+# 開發環境設置
+git clone https://github.com/isyanghou/6Keys.git
+cd 6Keys && pip install -e ".[dev]"
+pytest tests/  # 運行測試
 ```
 
-## 📄 授權條款
-
-本項目採用 [BSD 3-Clause License](LICENSE) 授權。
-
-## 📞 聯繫方式
-
-- **作者**：You Yang Hou
-- **Email**：[your.email@example.com]
-- **GitHub**：[https://github.com/yourusername/sixkeys]
-
-## 🙏 致謝
-
-感謝以下開源項目和社群的支持：
-
-- NumPy, SciPy, Matplotlib
-- NetworkX, scikit-learn
-- Jupyter, Sphinx
-- OpenNeuro, NeuroStars
-
-## 📈 引用
+## 📈 引用 | Citation
 
 如果您在研究中使用了本項目，請引用：
 
@@ -308,24 +227,20 @@ pytest tests/
   title={Six Keys Criticality: A Framework for Neural Consciousness State Analysis},
   author={Hou, You Yang},
   year={2025},
-  month={6},
-  day={28},
   url={https://github.com/isyanghou/6Keys},
   note={ORCID: 0009-0000-7041-8574}
 }
 ```
 
-## 👤 作者信息
+## 📄 授權條款 | License
+
+- **論文內容**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- **程式碼**: [BSD 3-Clause](LICENSE)
+
+## 👤 作者 | Author
 
 **You Yang Hou**  
-📧 Email: [isyanghou@gmail.com](mailto:isyanghou@gmail.com)  
-🆔 ORCID: [0009-0000-7041-8574](https://orcid.org/0009-0000-7041-8574)  
-📅 論文日期: 2025-06-28
-
-## 📄 授權條款
-
-- **論文內容**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - 創用CC 姓名標示-非商業性 4.0 國際授權條款
-- **程式碼**: [BSD 3-Clause](LICENSE) - BSD 3條款授權
+📧 [isyanghou@gmail.com](mailto:isyanghou@gmail.com) | 🆔 ORCID: [0009-0000-7041-8574](https://orcid.org/0009-0000-7041-8574)
 
 ---
 

@@ -1,5 +1,33 @@
 # Quick Start Guide
 
+**📍 Navigation**: [🏠 Home](../../README.md) > [📚 Documentation Hub](README.md) > **🚀 Quick Start**
+
+**⏱️ Estimated Reading Time**: 10-15 minutes | **🎯 Difficulty**: Beginner | **🎯 Goal**: Get up and running with Six Keys Criticality
+
+---
+
+## 🎯 **What You'll Learn**
+
+By the end of this guide, you'll be able to:
+- ✅ Install and verify Six Keys Criticality
+- ✅ Run your first analysis
+- ✅ Understand the six core indicators
+- ✅ Visualize results with charts
+- ✅ Process your own neural data
+
+---
+
+## 🚨 **Quick Rescue**
+
+**Need immediate help?**
+
+| Problem | Quick Solution | Link |
+|---------|----------------|------|
+| 🔧 **Installation Issues** | Check installation guide | [Installation Guide](installation.md) |
+| ❓ **Error Messages** | Check common problems | [FAQ](faq.md) |
+| 📊 **Data Format** | See data requirements | [Data Processing Guide](../data-processing.md) |
+| 🎨 **Visualization** | Learn plotting basics | [Visualization Tutorial](visualization.md) |
+
 This guide will help you get started with the Six Keys Criticality framework quickly.
 
 ## Prerequisites
@@ -350,3 +378,53 @@ with Pool() as pool:
     args = [(data, params) for data in datasets]
     results = pool.map(analyze_single, args)
 ```
+
+---
+
+## 🎉 **Quick Start Complete! What's Next?**
+
+**Choose your path based on your needs:**
+
+### 🧠 **Dive Deeper into Theory**
+- [📖 Theoretical Background](theory.md) - Understand the science behind the six indicators
+- [📚 Complete Academic Paper](paper/) - Read the full research paper
+- [🧮 Mathematical Foundations](paper/A-0_Mathematical_Derivations.md) - Explore detailed mathematical proofs
+
+### 👨‍💻 **Develop Custom Solutions**
+- [📚 API Reference](../api/) - Complete technical documentation
+- [🔧 Developer Guide](../developers.md) - Set up development environment
+- [🏗️ Project Structure](../project-structure.md) - Understand the codebase
+
+### 🔬 **Design Experiments**
+- [🧪 Experiment Guide](experiments.md) - Research methodology and design
+- [📊 Visualization Tutorial](visualization.md) - Advanced plotting techniques
+- [📈 Statistical Analysis](paper/08_Statistical_Analysis_and_Validation.md) - Validation methods
+
+### 📚 **Learning Resources**
+- [❓ FAQ](faq.md) - Common questions and troubleshooting
+- [🎮 Interactive Examples](../../examples/) - Hands-on demonstrations
+- [📖 Best Practices](../best-practices.md) - Tips for effective analysis
+
+---
+
+## 📚 **Navigation Bar**
+
+### 📍 **Current Location**
+**Documentation Hub** > **Quick Start Guide**
+
+### 🔗 **Related Pages**
+- [⚙️ Installation Guide](installation.md) - Detailed setup instructions
+- [❓ FAQ](faq.md) - Common questions and solutions
+- [🧠 Theory Background](theory.md) - Understand the foundations
+- [📚 Documentation Hub](README.md) - Return to main documentation
+
+### 🆘 **Help & Support**
+- [❓ **Common Questions**](faq.md) - Quick answers to frequent issues
+- [💬 **Technical Support**](mailto:isyanghou@gmail.com) - Direct assistance
+- [🐛 **GitHub Issues**](https://github.com/isyanghou/6Keys/issues) - Report bugs or request features
+- [💭 **GitHub Discussions**](https://github.com/isyanghou/6Keys/discussions) - Community forum
+
+### 🌐 **Other Resources**
+- [🇨🇳 **Chinese Version**](../zh/quickstart.md) - 中文版快速开始
+- [🏠 **Project Home**](../../README.md) - Main project page
+- [📚 **Complete Documentation**](../) - Full documentation index

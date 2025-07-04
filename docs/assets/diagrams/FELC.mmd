@@ -1,0 +1,16 @@
+---
+config:
+  layout: dagre
+---
+flowchart TD
+ subgraph FELC["🔑 FELC – 自由能極限環 (ζ₁)"]
+        LC(("Limit Cycle"))
+        F["F(t), G(t)"]
+  end
+    F -- 判準 C_FELC --> LC
+    LC -- "ζ₁ → Dw²\nw₁ = 0.42" --> CTM["CTM 管道距離 Dw"]
+    CTM --> RFI["🔑 RFI – Ricci 臨界流 (ζ₂)"]
+     F:::state
+    classDef state fill:#ffffff,stroke:#999999
+    style RFI fill:#d4e8ff,stroke:#6fa8ff
+    style FELC fill:#f7f4fa,stroke:#b591e4

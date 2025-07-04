@@ -1,5 +1,33 @@
 # Frequently Asked Questions (FAQ)
 
+**📍 Navigation**: [🏠 Home](../../README.md) > [📚 Documentation Hub](README.md) > **❓ FAQ**
+
+---
+
+## 🔍 **Quick Find**
+
+**Looking for something specific?**
+
+| Category | Quick Links |
+|----------|-------------|
+| 🔧 **Installation** | [Dependency Conflicts](#q1-how-to-resolve-dependency-conflicts-during-installation) \| [Conda Setup](#q2-how-to-install-in-a-conda-environment) \| [Import Issues](#q3-what-to-do-if-import-fails-after-installation) |
+| 🎯 **Usage** | [Parameter Selection](#q4-how-to-choose-appropriate-parameters) \| [Data Format](#q5-what-are-the-data-format-requirements) \| [Missing Data](#q6-how-to-handle-missing-data) |
+| 📊 **Results** | [Interpretation](#q7-how-to-interpret-analysis-results) \| [Visualization](#visualization-issues) \| [Export](#export-issues) |
+| 🚨 **Troubleshooting** | [Performance](#performance-issues) \| [Memory](#memory-issues) \| [Errors](#common-errors) |
+
+---
+
+## 🚨 **Emergency Rescue**
+
+**Stuck? Get immediate help:**
+
+| Problem | Solution | Link |
+|---------|----------|------|
+| 🔧 **Can't Install** | Step-by-step installation guide | [Installation Guide](installation.md) |
+| ❌ **Getting Errors** | Common error solutions | [Error Troubleshooting](#common-errors) |
+| 📊 **Data Problems** | Data format and processing help | [Data Processing Guide](../data-processing.md) |
+| 🚀 **Need Quick Start** | Get running in 5 minutes | [Quick Start Guide](quickstart.md) |
+
 This document answers common questions when using the Six Keys Criticality framework.
 
 ## Installation Issues
@@ -797,3 +825,28 @@ get_help('installation')  # Get installation help
 ---
 
 **Note**: If your question is not answered in this FAQ, please don't hesitate to contact us. We continuously update this document to include more common questions.
+
+---
+
+## 📚 **Navigation Bar**
+
+### 📍 **Current Location**
+**Documentation Hub** > **Frequently Asked Questions**
+
+### 🔗 **Related Pages**
+- [🚀 Quick Start Guide](quickstart.md) - Get started in 5 minutes
+- [⚙️ Installation Guide](installation.md) - Detailed setup instructions
+- [🧠 Theory Background](theory.md) - Understand the foundations
+- [📚 Documentation Hub](README.md) - Return to main documentation
+
+### 🆘 **Help & Support**
+- [🔧 **Installation Issues**](installation.md) - Setup troubleshooting
+- [💬 **Technical Support**](mailto:isyanghou@gmail.com) - Direct assistance
+- [🐛 **GitHub Issues**](https://github.com/isyanghou/6Keys/issues) - Report bugs or request features
+- [💭 **GitHub Discussions**](https://github.com/isyanghou/6Keys/discussions) - Community forum
+
+### 🌐 **Other Resources**
+- [🇨🇳 **Chinese Version**](../zh/faq.md) - 中文版常见问题
+- [🏠 **Project Home**](../../README.md) - Main project page
+- [📚 **Complete Documentation**](../) - Full documentation index
+- [🎮 **Interactive Examples**](../../examples/) - Hands-on demonstrations
