@@ -47,7 +47,7 @@
 
 ## ▲ Part I: Core Concepts {#part-i-core-concepts}
 
-### ▲ Question 1｜What is the "Six Keys Criticality" theory? {#question-1what-is-the-six-keys-criticality-theory}
+### ▲ Question 1｜What is the "Six Keys Criticality" theory?
 
 **Six Keys Criticality** is a theoretical framework that attempts to explain consciousness through **critical transition theory**. The core idea is:
 
@@ -71,7 +71,7 @@
 
 ---
 
-### ▲ Question 2｜Why exactly "six keys"? How was this number determined? {#question-2why-exactly-six-keys-how-was-this-number-determined}
+### ▲ Question 2｜Why exactly "six keys"? How was this number determined?
 
 The number "six" is not arbitrary but comes from **deep mathematical and physical principles**:
 
@@ -103,7 +103,7 @@ The number "six" is not arbitrary but comes from **deep mathematical and physica
 
 ---
 
-### ▲ Question 3｜What is the "critical tube" frequently mentioned in the theory? {#question-3what-is-the-critical-tube-frequently-mentioned-in-the-theory}
+### ▲ Question 3｜What is the "critical tube" frequently mentioned in the theory?
 
 The **Critical Tube Manifold (CTM)** is the core geometric structure of Six Keys Criticality theory:
 
@@ -138,7 +138,7 @@ Where:
 
 ## ▲ Part II: Theoretical Inference and Explanatory Power {#part-ii-theoretical-inference-and-explanatory-power}
 
-### ▲ Question 4｜How does this theory explain the brain's "energy mystery"? {#question-4how-does-this-theory-explain-the-brains-energy-mystery}
+### ▲ Question 4｜How does this theory explain the brain's "energy mystery"?
 
 The brain's **"energy mystery"** refers to: Why does the brain, which accounts for only 2% of body weight, consume 20% of total energy, yet consciousness seems to require no additional energy?
 
@@ -192,7 +192,7 @@ def consciousness_energy_efficiency(zeta_values):
 
 ---
 
-### ▲ Question 5｜How does the theory explain the "consciousness capacity mystery"? {#question-5how-does-the-theory-explain-the-consciousness-capacity-mystery}
+### ▲ Question 5｜How does the theory explain the "consciousness capacity mystery"?
 
 The **"consciousness capacity mystery"** refers to: Why can consciousness simultaneously process multiple complex information streams while maintaining unified subjective experience?
 
@@ -255,7 +255,7 @@ def consciousness_binding(zeta_values, time_window=100):
 
 ---
 
-### ▲ Question 6｜Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold? {#question-6real-brains-are-full-of-noise-and-imperfections-does-the-perfect-six-dimensional-sphere-in-the-theory-still-hold}
+### ▲ Question 6｜Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold?
 
 This is an excellent question that touches on the **robustness** of Six Keys theory. Real neural systems indeed have significant noise and imperfections.
 
@@ -338,7 +338,7 @@ Studies on real EEG data show:
 
 ## ▲ Part III: Technical Details and Verifiability {#part-iii-technical-details-and-verifiability}
 
-### ▲ Question 7｜What biological or physical concepts do the six keys correspond to? {#question-7what-biological-or-physical-concepts-do-the-six-keys-correspond-to}
+### ▲ Question 7｜What biological or physical concepts do the six keys correspond to?
 
 Each of the six keys corresponds to specific biological and physical mechanisms:
 
@@ -429,7 +429,7 @@ def calculate_RFI(connectivity_matrix):
 
 ---
 
-### ▲ Question 8｜Can this theory be experimentally verified or falsified? {#question-8can-this-theory-be-experimentally-verified-or-falsified}
+### ▲ Question 8｜Can this theory be experimentally verified or falsified?
 
 **Yes!** Six Keys Criticality theory is designed to be **experimentally testable and falsifiable**. Here are specific experimental approaches:
 
@@ -546,7 +546,7 @@ def power_analysis():
 
 ## ▲ Part IV: Theoretical Extension and Applications {#part-iv-theoretical-extension-and-applications}
 
-### ▲ Question 9｜How is this theory compatible with other mainstream theories of mind, such as IIT and FEP? {#question-9how-is-this-theory-compatible-with-other-mainstream-theories-of-mind-such-as-iit-and-fep}
+### ▲ Question 9｜How is this theory compatible with other mainstream theories of mind, such as IIT and FEP?
 
 Six Keys Criticality theory is designed to be **complementary rather than competitive** with existing theories. Here's how it integrates:
 
@@ -664,7 +664,7 @@ class UnifiedConsciousnessModel:
 
 ---
 
-### ▲ Question 10｜How does the theory explain the "content" of consciousness (qualia), such as the feeling of seeing red? {#question-10how-does-the-theory-explain-the-content-of-consciousness-qualia-such-as-the-feeling-of-seeing-red}
+### ▲ Question 10｜How does the theory explain the "content" of consciousness (qualia), such as the feeling of seeing red?
 
 This addresses the **"hard problem of consciousness"** - how subjective experience (qualia) arises from objective neural processes.
 
@@ -791,7 +791,7 @@ def qualia_binding(neural_data, time_window=100):
 
 ## ▲ Part V: Deep Exploration and Frontier Questions {#part-v-deep-exploration-and-frontier-questions}
 
-### ▲ Question 11｜How does Six Keys Criticality explain NDE (near-death experiences) when people can still report vivid experiences after cardiac arrest? {#question-11how-does-six-keys-criticality-explain-nde-near-death-experiences-when-people-can-still-report-vivid-experiences-after-cardiac-arrest}
+### ▲ Question 11｜How does Six Keys Criticality explain NDE (near-death experiences) when people can still report vivid experiences after cardiac arrest?
 
 Near-death experiences (NDEs) present a fascinating challenge: How can consciousness persist when brain activity appears minimal?
 
@@ -934,7 +934,7 @@ def predict_NDE_probability(patient_data):
 
 ---
 
-### ▲ Question 12｜Why can perceptions in dreams be as vivid as when awake? {#question-12why-can-perceptions-in-dreams-be-as-vivid-as-when-awake}
+### ▲ Question 12｜Why can perceptions in dreams be as vivid as when awake?
 
 Dream vividness is a fascinating puzzle: How can internally generated experiences feel as real as external perceptions?
 
@@ -1110,7 +1110,7 @@ def dream_research_protocol(participants, nights=14):
 
 ---
 
-### ▲ Question 13｜Is there still room for free will in the Six Keys model? Are decisions necessarily predictable? {#question-13is-there-still-room-for-free-will-in-the-six-keys-model-are-decisions-necessarily-predictable}
+### ▲ Question 13｜Is there still room for free will in the Six Keys model? Are decisions necessarily predictable?
 
 This touches on one of philosophy's deepest questions: the relationship between determinism and free will.
 
@@ -1257,7 +1257,7 @@ def predict_decision(person_profile, situation, time_horizon):
 
 ---
 
-### ▲ Question 14｜Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps? {#question-14why-can-music-especially-rhythm-and-harmony-evoke-strong-emotions-even-goosebumps}
+### ▲ Question 14｜Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps?
 
 Music's emotional power is one of humanity's most universal experiences. Six Keys theory provides a mechanistic explanation.
 
@@ -1474,7 +1474,7 @@ def design_therapeutic_music(patient_condition, target_emotion):
 
 ---
 
-### ▲ Question 15｜Animals like crows and dolphins lack neocortex compared to humans. Why do they still show reasoning or tool use abilities? {#question-15animals-like-crows-and-dolphins-lack-neocortex-compared-to-humans-why-do-they-still-show-reasoning-or-tool-use-abilities}
+### ▲ Question 15｜Animals like crows and dolphins lack neocortex compared to humans. Why do they still show reasoning or tool use abilities?
 
 This question challenges the assumption that complex cognition requires human-like brain structure.
 
@@ -1647,7 +1647,7 @@ def compare_species_consciousness():
 
 ---
 
-### ▲ Question 16｜Can humans sustainably improve ζ₆ stability through training or technical means to enhance flow or meditation quality? {#question-16can-humans-sustainably-improve-ζ₆-stability-through-training-or-technical-means-to-enhance-flow-or-meditation-quality}
+### ▲ Question 16｜Can humans sustainably improve ζ₆ stability through training or technical means to enhance flow or meditation quality?
 
 This question explores the **trainability** of consciousness and the potential for enhancing human cognitive performance.
 
@@ -1868,7 +1868,7 @@ def assess_trainability(individual_profile):
 
 ---
 
-### ▲ Question 17｜How does the six-key theory explain the "hard problem of consciousness" - why there is subjective experience rather than just information processing? {#question-17how-does-the-six-key-theory-explain-the-hard-problem-of-consciousness-why-there-is-subjective-experience-rather-than-just-information-processing}
+### ▲ Question 17｜How does the six-key theory explain the "hard problem of consciousness" - why there is subjective experience rather than just information processing?
 
 This addresses the **most fundamental question** in consciousness studies.
 
@@ -2051,7 +2051,7 @@ class ConsciousnessTheoryIntegration:
 
 ---
 
-### ▲ Question 18｜What are the specific neural mechanisms behind each of the six keys? Can they be measured with current neurotechnology? {#question-18-what-are-the-specific-neural-mechanisms-behind-each-of-the-six-keys-can-they-be-measured-with-current-neurotechnology}
+### ▲ Question 18｜What are the specific neural mechanisms behind each of the six keys? Can they be measured with current neurotechnology?
 
 This question addresses the **biological implementation** and **experimental accessibility** of the six-key framework.
 
@@ -2369,7 +2369,7 @@ class SixKeyMeasurementSuite:
 
 ---
 
-### ▲ Question 19｜How does the six-key theory explain different levels of consciousness (awake, dreaming, anesthesia, coma)? {#question-19-how-does-the-six-key-theory-explain-different-levels-of-consciousness-awake-dreaming-anesthesia-coma}
+### ▲ Question 19｜How does the six-key theory explain different levels of consciousness (awake, dreaming, anesthesia, coma)?
 
 This question explores how **consciousness states** map to different six-key configurations.
 
@@ -2626,7 +2626,7 @@ def model_consciousness_transitions(current_state, perturbation):
 
 ---
 
-### ▲ Question 20｜Can the six-key framework be applied to artificial intelligence to create truly conscious machines? {#question-20-can-the-six-key-framework-be-applied-to-artificial-intelligence-to-create-truly-conscious-machines}
+### ▲ Question 20｜Can the six-key framework be applied to artificial intelligence to create truly conscious machines?
 
 This question explores the **most ambitious application** of the six-key theory.
 
@@ -2992,7 +2992,7 @@ def compare_human_ai_consciousness(human_data, ai_data):
 
 ---
 
-### ▲ Question 21｜How does the theory handle edge cases like split-brain patients, multiple personality disorder, or conjoined twins? {#question-21-how-does-the-theory-handle-edge-cases-like-split-brain-patients-multiple-personality-disorder-or-conjoined-twins}
+### ▲ Question 21｜How does the theory handle edge cases like split-brain patients, multiple personality disorder, or conjoined twins?
 
 This question tests the theory's ability to explain **unusual consciousness configurations**.
 
@@ -3295,7 +3295,7 @@ class EdgeCaseExperiments:
 
 ---
 
-### ▲ Question 22｜How does the theory handle noise and artifacts in real neural data? {#question-22-how-does-the-theory-handle-noise-and-artifacts-in-real-neural-data}
+### ▲ Question 22｜How does the theory handle noise and artifacts in real neural data?
 
 This question addresses the **practical challenges** of applying six-key theory to real-world data.
 
@@ -3729,7 +3729,7 @@ def validate_noise_robustness():
 
 ---
 
-### ▲ Question 23｜How do the six keys interact and depend on each other? Can we assign different weights? {#question-23-how-do-the-six-keys-interact-and-depend-on-each-other-can-we-assign-different-weights}
+### ▲ Question 23｜How do the six keys interact and depend on each other? Can we assign different weights?
 
 This question explores the **interdependence structure** and **weighting schemes** for the six keys.
 
@@ -4104,7 +4104,7 @@ def gradual_weight_adaptation(six_keys_history):
 
 ---
 
-## ❓ Question 24: Clinical Anesthesia Monitoring Applications {#question-24-clinical-anesthesia-monitoring-applications}
+## ❓ Question 24: Clinical Anesthesia Monitoring Applications
 
 ### 🏥 Real-time Monitoring Pipeline
 
@@ -4149,7 +4149,7 @@ class AnesthesiaMonitor:
 
 ---
 
-## ❓ Question 25: Unique Advantages of AI Consciousness Assessment {#question-25-unique-advantages-of-ai-consciousness-assessment}
+## ❓ Question 25: Unique Advantages of AI Consciousness Assessment
 
 ### 🤖 Comparative Analysis
 
@@ -4196,7 +4196,7 @@ class AIConsciousnessMonitor:
 
 ---
 
-## ❓ Question 26: Experimental Design for Validating Six-Key Predictions {#question-26-experimental-design-for-validating-six-key-predictions}
+## ❓ Question 26: Experimental Design for Validating Six-Key Predictions
 
 ### 🔬 Design Principles (experiments.md listing)
 
