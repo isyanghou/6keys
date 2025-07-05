@@ -100,7 +100,7 @@ def renumber_and_update_links(file_path):
 
 if __name__ == '__main__':
     # 檔案路徑
-    zh_path = os.path.join('docs', '六鑰臨界問與答.md')
+    zh_path = os.path.join('docs', 'zh', 'Six-Keys_Criticality_QA.md')
     en_path = os.path.join('docs', 'en', 'Six-Keys_Criticality_QA.md')
 
     # 檢查並處理中文文件

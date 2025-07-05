@@ -19,8 +19,8 @@
 
 | 用戶類型 | 推薦路徑 | 說明 |
 |---------|---------|------|
-| 🆕 **新手用戶** | [🚀 快速開始](docs/quickstart.md) → [❓ 常見問題](docs/faq.md) → [💬 問答集](docs/六鑰臨界問與答.md) | 5分鐘上手指南 |
-| 🧠 **理論研究者** | [📚 完整論文](docs/zh/paper/) → [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) → [💬 深度問答](docs/六鑰臨界問與答.md) | 深入理論背景 |
+| 🆕 **新手用戶** | [🚀 快速開始](docs/quickstart.md) → [❓ 常見問題](docs/faq.md) → [💬 問答集](docs/zh/Six-Keys_Criticality_QA.md) | 5分鐘上手指南 |
+| 🧠 **理論研究者** | [📚 完整論文](docs/zh/paper/) → [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) → [💬 深度問答](docs/zh/Six-Keys_Criticality_QA.md) | 深入理論背景 |
 | 👨‍💻 **程式開發者** | [📚 API文檔](docs/api/) → [🔧 開發者指南](docs/developers.md) | 技術實現細節 |
 | 🔬 **實驗驗證者** | [🧪 實驗指南](docs/experiments.md) → [📊 可視化教程](docs/visualization.md) | 實驗設計方法 |
 
@@ -105,7 +105,7 @@
 目前正在進行多中心驗證實驗，初步結果支持理論預測。
 </details>
 
-> **🎯 想了解更多？** 查看完整的 **[📖 六鑰臨界問答集](docs/六鑰臨界問與答.md)** - 包含26個深度問題，涵蓋理論基礎、技術實現和實驗應用的完整知識體系。
+> **🎯 想了解更多？** 查看完整的 **[📖 六鑰臨界問答集](docs/zh/Six-Keys_Criticality_QA.md)** - 包含26個深度問題，涵蓋理論基礎、技術實現和實驗應用的完整知識體系。
 
 ## 🚀 快速開始 | Quick Start
 
@@ -210,7 +210,7 @@ pip install matplotlib seaborn scipy pandas
 
 ## 💬 六鑰臨界問答集 | Six Keys Q&A Collection
 
-**📖 [六鑰臨界問與答完整版](docs/六鑰臨界問與答.md)** - 深度理論解析與實踐指南
+**📖 [六鑰臨界問與答完整版](docs/zh/Six-Keys_Criticality_QA.md)** - 深度理論解析與實踐指南
 
 ### 🎯 問答集特色
 
@@ -242,7 +242,7 @@ pip install matplotlib seaborn scipy pandas
 **推薦學習路徑**:
 1. [🚀 快速開始](docs/quickstart.md) - 5分鐘上手
 2. [⚙️ 安裝指南](docs/installation.md) - 詳細安裝步驟
-3. [💬 問答集](docs/六鑰臨界問與答.md) - 理論基礎與實踐指南
+3. [💬 問答集](docs/zh/Six-Keys_Criticality_QA.md) - 理論基礎與實踐指南
 4. [❓ 常見問題](docs/faq.md) - 解決常見疑問
 5. [📊 可視化教程](docs/visualization.md) - 學習結果展示
 
@@ -254,7 +254,7 @@ pip install matplotlib seaborn scipy pandas
 
 **推薦學習路徑**:
 1. [🧠 理論背景](docs/theory.md) - 理論基礎概述
-2. [💬 問答集](docs/六鑰臨界問與答.md) - 深度理論解析與常見問題
+2. [💬 問答集](docs/zh/Six-Keys_Criticality_QA.md) - 深度理論解析與常見問題
 3. [📚 完整論文](docs/zh/paper/) - 中文完整論文
 4. [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) - 詳細數學證明
 5. [🔬 實驗驗證](docs/experiments.md) - 實驗設計方法
@@ -280,7 +280,7 @@ pip install matplotlib seaborn scipy pandas
 |---------|------|----------|
 | 📖 **快速開始** | [開始使用](docs/quickstart.md) | 所有用戶 |
 | 📚 **完整論文** | [中文](docs/zh/paper/) \| [English](docs/en/paper/) | 研究者 |
-| 💬 **問答集** | [六鑰臨界問與答](docs/六鑰臨界問與答.md) | 所有用戶 |
+| 💬 **問答集** | [六鑰臨界問與答](docs/zh/Six-Keys_Criticality_QA.md) | 所有用戶 |
 | 🔧 **API文檔** | [技術文檔](docs/api/) | 開發者 |
 | ❓ **常見問題** | [FAQ](docs/faq.md) | 所有用戶 |
 

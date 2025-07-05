@@ -11,14 +11,10 @@
             "id": "1940da9b19d39110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/六鑰臨界問與答.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "六鑰臨界問與答"
+              "title": "新分頁"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/六鑰臨界問與答.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "六鑰臨界問與答 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/六鑰臨界問與答.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "六鑰臨界問與答 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/六鑰臨界問與答.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "六鑰臨界問與答 的大綱"
+              "title": "大綱"
             }
           }
         ]
@@ -169,5 +162,8 @@
     }
   },
   "active": "1940da9b19d39110",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/zh/Six-Keys_Criticality_QA.md",
+    "docs/zh/Six-Keys_Criticality_QA.md"
+  ]
 }
