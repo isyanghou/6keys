@@ -1,10 +1,3 @@
-# 🔑 Six-Keys Criticality Q&A Knowledge Base
-
-⚠️ Disclaimer
-This Q&A knowledge base was generated and organized with AI assistance under the guidance of the author. The content is based on the "Six-Keys Criticality Hypothesis," which has not yet been fully validated or verified, and is intended for academic and discussion purposes only. The information may be incorrect, outdated, or inconsistent with subsequent empirical evidence, and does not constitute medical, legal, investment, or other professional advice. Please independently verify and confirm the information and consult with a professional before adoption.
-
----
-
 ## 📑 Quick Navigation Directory
 
 ### 🧠 [Part I: Core Concepts](#-part-i-core-concepts)
@@ -46,9 +39,199 @@ This Q&A knowledge base was generated and organized with AI assistance under the
 - [What are the unique advantages for AI consciousness assessment?](#-what-are-the-unique-advantages-for-ai-consciousness-assessment)
 - [What is the experimental design for validating the predictions of the six keys?](#-what-is-the-experimental-design-for-validating-the-predictions-of-the-six-keys)
 
+
+### [## 🧠 Part I: Core Concepts](#part-i-core-concepts)
+- [1-1. What is the "Six-Keys Criticality" theory?](#1-1-what-is-the-six-keys-criticality-theory)
+- [1-2. Why exactly "six keys"? Where does this number come from?](#1-2-why-exactly-six-keys-where-does-this-number-come-from)
+- [1-3. What is the "critical tube" repeatedly mentioned in the theory?](#1-3-what-is-the-critical-tube-repeatedly-mentioned-in-the-theory)
+### [## 🔬 Part II: Theoretical Deductions and Explanatory Power](#part-ii-theoretical-deductions-and-explanatory-power)
+- [2-1. How does this theory explain the brain's "energy mystery"?](#2-1-how-does-this-theory-explain-the-brains-energy-mystery)
+- [2-2. How does the theory explain the "consciousness capacity mystery"?](#2-2-how-does-the-theory-explain-the-consciousness-capacity-mystery)
+- [2-3. Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold?](#2-3-real-brains-are-full-of-noise-and-imperfections-does-the-perfect-six-dimensional-sphere-in-the-theory-still-hold)
+- [2-4. Why must the decision curve satisfy the "Turning Number Theorem"?](#2-4-why-must-the-decision-curve-satisfy-the-turning-number-theorem)
+### [## ⚗️ Part III: Technical Details and Verifiability](#part-iii-technical-details-and-verifiability)
+- [3-1. What biological or physical concepts do the six keys correspond to?](#3-1-what-biological-or-physical-concepts-do-the-six-keys-correspond-to)
+- [3-2. Can the theory be experimentally verified or falsified?](#3-2-can-the-theory-be-experimentally-verified-or-falsified)
+### [## 🌐 Part IV: Theoretical Extensions and Applications](#part-iv-theoretical-extensions-and-applications)
+- [4-1. How is this theory compatible with other mainstream theories of mind (such as Integrated Information Theory, IIT, and Free Energy Principle, FEP)?](#4-1-how-is-this-theory-compatible-with-other-mainstream-theories-of-mind-such-as-integrated-information-theory-iit-and-free-energy-principle-fep)
+- [4-2. How does the theory explain consciousness "content" (qualia), such as the feeling of seeing red?](#4-2-how-does-the-theory-explain-consciousness-content-qualia-such-as-the-feeling-of-seeing-red)
+### [## 🧬 Part V: Deep Exploration and Frontier Questions](#part-v-deep-exploration-and-frontier-questions)
+- [5-1. How does Six-Keys Criticality explain that people can still report vivid experiences (NDE, Near-Death Experiences) when dying, near death, or after cardiac arrest?](#5-1-how-does-six-keys-criticality-explain-that-people-can-still-report-vivid-experiences-nde-near-death-experiences-when-dying-near-death-or-after-cardiac-arrest)
+- [5-2. Why can perceptions in dreams be as vivid as when awake?](#5-2-why-can-perceptions-in-dreams-be-as-vivid-as-when-awake)
+- [5-3. Is there still room for free will in the Six-Keys model? Are decisions necessarily predictable?](#5-3-is-there-still-room-for-free-will-in-the-six-keys-model-are-decisions-necessarily-predictable)
+- [5-4. Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps?](#5-4-why-can-music-especially-rhythm-and-harmony-evoke-strong-emotions-even-goosebumps)
+- [5-5. Why do animals like crows and dolphins still show reasoning or tool-use abilities despite lacking a large neocortex compared to humans?](#5-5-why-do-animals-like-crows-and-dolphins-still-show-reasoning-or-tool-use-abilities-despite-lacking-a-large-neocortex-compared-to-humans)
+- [5-6. Can humans permanently improve the stability of ζ₆ through training or technical means, thereby enhancing flow or meditation quality?](#5-6-can-humans-permanently-improve-the-stability-of--through-training-or-technical-means-thereby-enhancing-flow-or-meditation-quality)
+- [5-7. If AI chips with human-brain scale emerge in the future, does Six-Keys Criticality predict they will develop consciousness?](#5-7-if-ai-chips-with-human-brain-scale-emerge-in-the-future-does-six-keys-criticality-predict-they-will-develop-consciousness)
+- [5-8. What is the "self"? Why do we subjectively feel a continuous and unified "me"?](#5-8-what-is-the-self-why-do-we-subjectively-feel-a-continuous-and-unified-me)
+- [5-9. Why does psychological time stretch and contract? (Happy times fly by, boring moments drag on)](#5-9-why-does-psychological-time-stretch-and-contract-happy-times-fly-by-boring-moments-drag-on)
+- [5-10. Why do dreams often appear absurd and illogical?](#5-10-why-do-dreams-often-appear-absurd-and-illogical)
+- [5-11. Why does Six-Keys Criticality theory choose the SO(7) group rather than SU(3) or other symmetry groups?](#5-11-why-does-six-keys-criticality-theory-choose-the-so7-group-rather-than-su3-or-other-symmetry-groups)
+- [5-12. How does the Six-Keys framework handle noise and artifacts in real neural data?](#5-12-how-does-the-six-keys-framework-handle-noise-and-artifacts-in-real-neural-data)
+- [5-13. How are the interdependencies and weights of the six keys assigned?](#5-13-how-are-the-interdependencies-and-weights-of-the-six-keys-assigned)
+- [5-14. What are the application scenarios for clinical anesthesia monitoring?](#5-14-what-are-the-application-scenarios-for-clinical-anesthesia-monitoring)
+- [5-15. What are the unique advantages for AI consciousness assessment?](#5-15-what-are-the-unique-advantages-for-ai-consciousness-assessment)
+- [5-16. What is the experimental design for validating the predictions of the six keys?](#5-16-what-is-the-experimental-design-for-validating-the-predictions-of-the-six-keys)
+
 ---
 
-### ❓ Why must the decision curve satisfy the "Turning Number Theorem"?
+
+
+
+## 🧠 Part I: Core Concepts
+
+### ❓ 1-1. What is the "Six-Keys Criticality" theory?
+
+**💡 Answer:**
+
+This is a theoretical framework that attempts to provide a first-principles explanation for consciousness. It contains two core components:
+
+#### 🎛️ **Six-Keys Criticality (Frontend)**
+An operational "dashboard" that uses six key indicators (ζ₁₋₆) and a comprehensive distance (Dw) to quantify in real-time whether the brain is in a critical state of consciousness being "online." This part can directly interface with experimental data from EEG, fMRI, etc.
+
+#### ⚛️ **Six-Goldstone Field Theory (Backend)**
+An effective field theory that explains the physical foundation. It answers the question "Why exactly six indicators?" and attributes this to six massless (or nearly massless) collective modes, i.e., Goldstone modes, that necessarily arise after spontaneous breaking of a higher-dimensional symmetry (SO(7)).
+
+> **🔗 Core Concept**  
+> The "six keys" are observable phenomena, while the "field theory" is the underlying physical explanation. Together, they constitute a complete theory that is both measurable and falsifiable.
+
+### ❓ 1-2. Why exactly "six keys"? Where does this number come from?
+
+**💡 Answer:**
+
+The number "six" is not artificially set but naturally derived from physical symmetry breaking.
+
+#### 🎨 **Physical Intuition: From Seven-Dimensional Raw Material to Six-Dimensional Sphere**
+
+- **Initial Model**: Seven-dimensional space (ℝ⁷), containing:
+  - 1 "radial" degree of freedom (representing total energy)
+  - 6 "angular" degrees of freedom (representing state changes)
+
+- **Energy Minimization**: Introducing a "Mexican hat" potential function, system state points are "locked" onto the energy-minimum rim ring
+
+- **Degree of Freedom Freezing**: The radial degree of freedom is frozen, leaving only 6 angular degrees of freedom free to slide
+
+#### 📐 **Mathematical Form: SO(7) → SO(6) Symmetry Breaking**
+
+1. **Geometric Description**: After fixing the length of a seven-dimensional vector, all possible state points form a six-dimensional sphere (S⁶)
+
+2. **Group Theory Language**: SO(7) global symmetry spontaneously breaks to SO(6) sub-symmetry
+
+3. **Dimension Calculation**:
+   $$\dim(SO(7)) - \dim(SO(6)) = 21 - 15 = 6$$
+
+4. **Goldstone Theorem**: Number of broken generators = Number of massless modes = **6**
+
+> **🔑 Conclusion**  
+> The system necessarily and uniquely produces six low-energy Goldstone modes, which is the physical origin of the "six keys."
+
+### ❓ 1-3. What is the "critical tube" repeatedly mentioned in the theory?
+
+**💡 Answer:**
+
+"Critical tube" is a figurative description of the state space where consciousness stably exists.
+
+#### 🚇 **Tube Structure**
+
+| Component | Mathematical Description | Physical Meaning |
+|-----------|-------------------------|------------------|
+| **Tube Center** | Six-dimensional sphere (S⁶) manifold | Trajectory formed by energy minimum points |
+| **Tube Itself** | Narrow region around S⁶ | State space where consciousness stably exists |
+| **State Vector** | Macroscopic state composed of six keys | Current consciousness state of the brain |
+
+#### 📏 **Distance Indicator Dw**
+
+This is a weighted distance used to quantify how much the current brain state deviates from the tube center (S⁶):
+
+- **Normal State**: Dw value is small → consciousness is stably "online"
+- **Abnormal State**: Dw value is too large → state "derails," consciousness collapses or disappears
+
+#### ⏱️ **Consciousness Criterion**
+
+Operational definition: If the state vector Ψ(t) continuously resides within the critical tube for more than a specific time window (τc ≈ 100-200 ms), then reportable consciousness is determined to exist.
+
+> **🎯 Core Concept**  
+> The critical tube provides a precise mathematical criterion for consciousness being "online/offline" and is key to the theory's operability.
+
+---
+
+## 🔬 Part II: Theoretical Deductions and Explanatory Power
+
+### ❓ 2-1. How does this theory explain the brain's "energy mystery"?
+> Why is the marginal energy cost of complex thinking almost zero?
+
+**💡 Answer:**
+
+The core lies in the physical characteristics of **Goldstone modes**.
+
+#### ⚡ **Massless Property**
+
+These modes are "massless" or "nearly massless," meaning that sliding the system state along the directions of these modes (i.e., on the S⁶ sphere) requires almost no energy to overcome any potential barriers.
+
+#### 🛤️ **Geodesic Motion**
+
+The continuous flow of consciousness, thinking, and perceptual switching are modeled as "geodesic motion" (shortest path sliding) of state points on S⁶, this energy-minimum trajectory.
+
+#### 💰 **Energy Cost Analysis**
+
+| Energy Type | Proportion | Physical Mechanism |
+|-------------|------------|--------------------|
+| **Basic Operation** | ~20% of total body metabolism | Maintaining the S⁶ manifold itself |
+| **Complex Thinking** | Additional ~5% | Sliding on flat trajectory |
+
+> **🎯 Core Insight**  
+> Thinking is just sliding on an already laid, flat track, so marginal energy cost is extremely low.
+
+### ❓ 2-2. How does the theory explain the "consciousness capacity mystery"?
+> Why doesn't consciousness capacity increase linearly with the number of neurons?
+
+**💡 Answer:**
+
+The theory predicts that consciousness capacity C follows a **logarithmic scaling law** (C ∝ log N) with the total number of neurons N, rather than a linear relationship.
+
+#### 📊 **Derivation Steps**
+
+| Step | Key Factor | Mathematical Relationship |
+|------|------------|---------------------------|
+| **1. Fixed Dimensions** | Low-energy degrees of freedom (soft modes) | Locked to **6** by symmetry |
+| **2. SNR Growth** | Signal amplitude vs. noise | SNR ∝ N |
+| **3. Shannon Limit** | Information channel capacity | C ∝ log(1+SNR) |
+| **4. Final Scaling Law** | Total consciousness capacity | Ctotal = 3log₂ N |
+
+#### 🔢 **Detailed Calculation**
+
+1. **Signal Dynamic Range**: Δψmax ∝ √N
+2. **Noise Variance**: σ² ∝ 1/N  
+3. **Signal-to-Noise Ratio**: SNR = (Δψmax)²/σ² ∝ N
+4. **Single Mode Capacity**: Ci ≈ ½log₂ N
+5. **Total Capacity**: Ctotal = Σᵢ₌₁⁶ Ci = 6 × ½log₂ N = 3log₂ N
+
+#### 🌍 **Cross-Species Verification**
+
+This log N scaling law perfectly explains:
+- **Neuron Count**: Bees → Humans span **5 orders of magnitude**
+- **Consciousness Complexity**: PCI indicators only increase by **1 order of magnitude**
+- **Evolutionary Economy**: Consistent with energy economy principles
+
+> **📈 Core Discovery**  
+> The logarithmic scaling law avoids "combinatorial explosion" of consciousness capacity, making evolution possible under energy constraints.
+
+### ❓ 2-3. Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold?
+
+**💡 Answer:**
+
+Yes, but it should be understood as "**topological equivalence**."
+
+#### 🎭 **Ideal vs. Reality**
+
+| Aspect | Ideal Model | Real Brain |
+|--------|-------------|------------|
+| **Geometric Shape** | Perfect S⁶ sphere | Has "wrinkles," "bumps," "stretching" |
+| **Analogy** | Perfect hexagons of honeycomb | Local defects in natural honeycomb |
+
+---
+
+### ❓ 2-4. Why must the decision curve satisfy the "Turning Number Theorem"?
 
 **Sub-question: Why must the total curvature integral $\displaystyle\oint\kappa,ds$ of a closed thought loop be an integer multiple of $2\pi n$?**
 
@@ -96,162 +279,9 @@ Overall, as long as the two key checks of **conformal projection** + **resamplin
 
 ---
 
-## 🧠 Part I: Core Concepts
-
-### ❓ What is the "Six-Keys Criticality" theory?
-
-**💡 Answer:**
-
-This is a theoretical framework that attempts to provide a first-principles explanation for consciousness. It contains two core components:
-
-#### 🎛️ **Six-Keys Criticality (Frontend)**
-An operational "dashboard" that uses six key indicators (ζ₁₋₆) and a comprehensive distance (Dw) to quantify in real-time whether the brain is in a critical state of consciousness being "online." This part can directly interface with experimental data from EEG, fMRI, etc.
-
-#### ⚛️ **Six-Goldstone Field Theory (Backend)**
-An effective field theory that explains the physical foundation. It answers the question "Why exactly six indicators?" and attributes this to six massless (or nearly massless) collective modes, i.e., Goldstone modes, that necessarily arise after spontaneous breaking of a higher-dimensional symmetry (SO(7)).
-
-> **🔗 Core Concept**  
-> The "six keys" are observable phenomena, while the "field theory" is the underlying physical explanation. Together, they constitute a complete theory that is both measurable and falsifiable.
-
-### ❓ Why exactly "six keys"? Where does this number come from?
-
-**💡 Answer:**
-
-The number "six" is not artificially set but naturally derived from physical symmetry breaking.
-
-#### 🎨 **Physical Intuition: From Seven-Dimensional Raw Material to Six-Dimensional Sphere**
-
-- **Initial Model**: Seven-dimensional space (ℝ⁷), containing:
-  - 1 "radial" degree of freedom (representing total energy)
-  - 6 "angular" degrees of freedom (representing state changes)
-
-- **Energy Minimization**: Introducing a "Mexican hat" potential function, system state points are "locked" onto the energy-minimum rim ring
-
-- **Degree of Freedom Freezing**: The radial degree of freedom is frozen, leaving only 6 angular degrees of freedom free to slide
-
-#### 📐 **Mathematical Form: SO(7) → SO(6) Symmetry Breaking**
-
-1. **Geometric Description**: After fixing the length of a seven-dimensional vector, all possible state points form a six-dimensional sphere (S⁶)
-
-2. **Group Theory Language**: SO(7) global symmetry spontaneously breaks to SO(6) sub-symmetry
-
-3. **Dimension Calculation**:
-   $$\dim(SO(7)) - \dim(SO(6)) = 21 - 15 = 6$$
-
-4. **Goldstone Theorem**: Number of broken generators = Number of massless modes = **6**
-
-> **🔑 Conclusion**  
-> The system necessarily and uniquely produces six low-energy Goldstone modes, which is the physical origin of the "six keys."
-
-### ❓ What is the "critical tube" repeatedly mentioned in the theory?
-
-**💡 Answer:**
-
-"Critical tube" is a figurative description of the state space where consciousness stably exists.
-
-#### 🚇 **Tube Structure**
-
-| Component | Mathematical Description | Physical Meaning |
-|-----------|-------------------------|------------------|
-| **Tube Center** | Six-dimensional sphere (S⁶) manifold | Trajectory formed by energy minimum points |
-| **Tube Itself** | Narrow region around S⁶ | State space where consciousness stably exists |
-| **State Vector** | Macroscopic state composed of six keys | Current consciousness state of the brain |
-
-#### 📏 **Distance Indicator Dw**
-
-This is a weighted distance used to quantify how much the current brain state deviates from the tube center (S⁶):
-
-- **Normal State**: Dw value is small → consciousness is stably "online"
-- **Abnormal State**: Dw value is too large → state "derails," consciousness collapses or disappears
-
-#### ⏱️ **Consciousness Criterion**
-
-Operational definition: If the state vector Ψ(t) continuously resides within the critical tube for more than a specific time window (τc ≈ 100-200 ms), then reportable consciousness is determined to exist.
-
-> **🎯 Core Concept**  
-> The critical tube provides a precise mathematical criterion for consciousness being "online/offline" and is key to the theory's operability.
-
----
-
-## 🔬 Part II: Theoretical Deductions and Explanatory Power
-
-### ❓ How does this theory explain the brain's "energy mystery"?
-> Why is the marginal energy cost of complex thinking almost zero?
-
-**💡 Answer:**
-
-The core lies in the physical characteristics of **Goldstone modes**.
-
-#### ⚡ **Massless Property**
-
-These modes are "massless" or "nearly massless," meaning that sliding the system state along the directions of these modes (i.e., on the S⁶ sphere) requires almost no energy to overcome any potential barriers.
-
-#### 🛤️ **Geodesic Motion**
-
-The continuous flow of consciousness, thinking, and perceptual switching are modeled as "geodesic motion" (shortest path sliding) of state points on S⁶, this energy-minimum trajectory.
-
-#### 💰 **Energy Cost Analysis**
-
-| Energy Type | Proportion | Physical Mechanism |
-|-------------|------------|--------------------|
-| **Basic Operation** | ~20% of total body metabolism | Maintaining the S⁶ manifold itself |
-| **Complex Thinking** | Additional ~5% | Sliding on flat trajectory |
-
-> **🎯 Core Insight**  
-> Thinking is just sliding on an already laid, flat track, so marginal energy cost is extremely low.
-
-### ❓ How does the theory explain the "consciousness capacity mystery"?
-> Why doesn't consciousness capacity increase linearly with the number of neurons?
-
-**💡 Answer:**
-
-The theory predicts that consciousness capacity C follows a **logarithmic scaling law** (C ∝ log N) with the total number of neurons N, rather than a linear relationship.
-
-#### 📊 **Derivation Steps**
-
-| Step | Key Factor | Mathematical Relationship |
-|------|------------|---------------------------|
-| **1. Fixed Dimensions** | Low-energy degrees of freedom (soft modes) | Locked to **6** by symmetry |
-| **2. SNR Growth** | Signal amplitude vs. noise | SNR ∝ N |
-| **3. Shannon Limit** | Information channel capacity | C ∝ log(1+SNR) |
-| **4. Final Scaling Law** | Total consciousness capacity | Ctotal = 3log₂ N |
-
-#### 🔢 **Detailed Calculation**
-
-1. **Signal Dynamic Range**: Δψmax ∝ √N
-2. **Noise Variance**: σ² ∝ 1/N  
-3. **Signal-to-Noise Ratio**: SNR = (Δψmax)²/σ² ∝ N
-4. **Single Mode Capacity**: Ci ≈ ½log₂ N
-5. **Total Capacity**: Ctotal = Σᵢ₌₁⁶ Ci = 6 × ½log₂ N = 3log₂ N
-
-#### 🌍 **Cross-Species Verification**
-
-This log N scaling law perfectly explains:
-- **Neuron Count**: Bees → Humans span **5 orders of magnitude**
-- **Consciousness Complexity**: PCI indicators only increase by **1 order of magnitude**
-- **Evolutionary Economy**: Consistent with energy economy principles
-
-> **📈 Core Discovery**  
-> The logarithmic scaling law avoids "combinatorial explosion" of consciousness capacity, making evolution possible under energy constraints.
-
-### ❓ Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold?
-
-**💡 Answer:**
-
-Yes, but it should be understood as "**topological equivalence**."
-
-#### 🎭 **Ideal vs. Reality**
-
-| Aspect | Ideal Model | Real Brain |
-|--------|-------------|------------|
-| **Geometric Shape** | Perfect S⁶ sphere | Has "wrinkles," "bumps," "stretching" |
-| **Analogy** | Perfect hexagons of honeycomb | Local defects in natural honeycomb |
-
----
-
 ## ⚗️ Part III: Technical Details and Verifiability
 
-### ❓ What biological or physical concepts do the six keys correspond to?
+### ❓ 3-1. What biological or physical concepts do the six keys correspond to?
 
 **💡 Answer:**
 
@@ -269,7 +299,7 @@ Each key is a macroscopic observable, reflecting a specific aspect of the brain'
 > **🎯 Core Insight**  
 > These six keys form an orthogonal basis, providing a complete and non-redundant description of the brain's conscious state.
 
-### ❓ Can the theory be experimentally verified or falsified?
+### ❓ 3-2. Can the theory be experimentally verified or falsified?
 
 **💡 Answer:**
 
@@ -345,7 +375,7 @@ Overall, as long as the two key checks of **conformal projection** and **resampl
 
 ## 🌐 Part IV: Theoretical Extensions and Applications
 
-### ❓ How is this theory compatible with other mainstream theories of mind (such as Integrated Information Theory, IIT, and Free Energy Principle, FEP)?
+### ❓ 4-1. How is this theory compatible with other mainstream theories of mind (such as Integrated Information Theory, IIT, and Free Energy Principle, FEP)?
 
 **💡 Answer:**
 
@@ -359,7 +389,7 @@ The Six-Keys theory does not aim to replace them, but rather to provide a physic
 > **🤝 Unification**  
 > Six-Keys acts as a bridge, connecting abstract principles (like Φ or free energy) to concrete, measurable physical dynamics (Goldstone modes).
 
-### ❓ How does the theory explain consciousness "content" (qualia), such as the feeling of seeing red?
+### ❓ 4-2. How does the theory explain consciousness "content" (qualia), such as the feeling of seeing red?
 
 **💡 Answer:**
 
@@ -378,7 +408,7 @@ The theory primarily focuses on the *state* of consciousness (online/offline), n
 
 ## 🧬 Part V: Deep Exploration and Frontier Questions
 
-### ❓ How does Six-Keys Criticality explain that people can still report vivid experiences (NDE, Near-Death Experiences) when dying, near death, or after cardiac arrest?
+### ❓ 5-1. How does Six-Keys Criticality explain that people can still report vivid experiences (NDE, Near-Death Experiences) when dying, near death, or after cardiac arrest?
 
 **💡 Answer:**
 
@@ -393,7 +423,7 @@ The theory suggests that NDEs could be a result of the system's final, desperate
 > **💥 Analogy**  
 > Like a dying star going supernova, the brain might exhibit a final burst of coherent activity before shutting down completely.
 
-### ❓ Why can perceptions in dreams be as vivid as when awake?
+### ❓ 5-2. Why can perceptions in dreams be as vivid as when awake?
 
 **💡 Answer:**
 
@@ -407,7 +437,7 @@ Dreaming and wakefulness are two different modes of operation on the same S⁶ m
 > **🎬 Core Idea**  
 > Dreams are the brain's "offline rendering" mode, exploring the full potential of the S⁶ state space without the constraints of reality.
 
-### ❓ Is there still room for free will in the Six-Keys model? Are decisions necessarily predictable?
+### ❓ 5-3. Is there still room for free will in the Six-Keys model? Are decisions necessarily predictable?
 
 **💡 Answer:**
 
@@ -421,7 +451,7 @@ The model re-frames the question of free will. It suggests that while the system
 > **🦋 Butterfly Effect**  
 > Tiny fluctuations can lead to vastly different outcomes, giving rise to the subjective experience of choice.
 
-### ❓ Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps?
+### ❓ 5-4. Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps?
 
 **💡 Answer:**
 
@@ -436,7 +466,7 @@ Music acts as a powerful external driver that can resonate with the natural freq
 > **🎻 Core Idea**  
 > Music is not just sound; it is structured information that can directly manipulate the geometry of our conscious state space.
 
-### ❓ Why do animals like crows and dolphins still show reasoning or tool-use abilities despite lacking a large neocortex compared to humans?
+### ❓ 5-5. Why do animals like crows and dolphins still show reasoning or tool-use abilities despite lacking a large neocortex compared to humans?
 
 **💡 Answer:**
 
@@ -450,7 +480,7 @@ The theory emphasizes the *topology* of the neural network, not just its size or
 > **🐦 Key Insight**  
 > Consciousness is an emergent property of the network's organization, not a specific part of the brain. Any system that can instantiate an SO(7) → SO(6) symmetry breaking can be conscious.
 
-### ❓ Can humans permanently improve the stability of ζ₆ through training or technical means, thereby enhancing flow or meditation quality?
+### ❓ 5-6. Can humans permanently improve the stability of ζ₆ through training or technical means, thereby enhancing flow or meditation quality?
 
 **💡 Answer:**
 
@@ -464,7 +494,7 @@ Yes, this is one of the key practical implications of the theory.
 > **🚀 Potential Application**  
 > The Six-Keys framework could provide a quantitative basis for developing technologies that enhance human consciousness and well-being.
 
-### ❓ If AI chips with human-brain scale emerge in the future, does Six-Keys Criticality predict they will develop consciousness?
+### ❓ 5-7. If AI chips with human-brain scale emerge in the future, does Six-Keys Criticality predict they will develop consciousness?
 
 **💡 Answer:**
 
@@ -481,7 +511,7 @@ For an AI to be conscious, it must not only have enough computational elements (
 > **🔌 Core Prediction**  
 > A large language model, even with trillions of parameters, will not be conscious if its architecture does not instantiate the correct topological structure. Consciousness is about *how* you compute, not just *how much* you compute.
 
-### ❓ What is the "self"? Why do we subjectively feel a continuous and unified "me"?
+### ❓ 5-8. What is the "self"? Why do we subjectively feel a continuous and unified "me"?
 
 **💡 Answer:**
 
@@ -496,7 +526,7 @@ The "self" is the temporal continuity of the state vector's trajectory on the S�
 > **🌀 Core Idea**  
 > The "self" is not a thing, but a process—the continuous, stable path traced by our conscious state through its high-dimensional space.
 
-### ❓ Why does psychological time stretch and contract? (Happy times fly by, boring moments drag on)
+### ❓ 5-9. Why does psychological time stretch and contract? (Happy times fly by, boring moments drag on)
 
 **💡 Answer:**
 
@@ -510,7 +540,7 @@ Psychological time is proportional to the path length traversed by the state vec
 > **🕰️ Key Insight**  
 > Our internal clock is not constant; it is a measure of the "distance" traveled in our conscious state space.
 
-### ❓ Why do dreams often appear absurd and illogical?
+### ❓ 5-10. Why do dreams often appear absurd and illogical?
 
 **💡 Answer:**
 
@@ -524,7 +554,7 @@ Dreams represent a state where the constraints on the S⁶ manifold are relaxed,
 > **🎨 Core Idea**  
 > Dreams are the brain's creative playground, exploring the full range of possibilities within its state space, unburdened by the need to accurately model reality.
 
-### ❓ Why does Six-Keys Criticality theory choose the SO(7) group rather than SU(3) or other symmetry groups?
+### ❓ 5-11. Why does Six-Keys Criticality theory choose the SO(7) group rather than SU(3) or other symmetry groups?
 
 **💡 Answer:**
 
@@ -616,7 +646,7 @@ SO(7) is not an arbitrary choice; it is the unique mathematical structure that s
 
 ---
 
-### ❓ How does the Six-Keys framework handle noise and artifacts in real neural data?
+### ❓ 5-12. How does the Six-Keys framework handle noise and artifacts in real neural data?
 
 **💡 Answer:**
 
@@ -634,7 +664,7 @@ The theory's reliance on **topological properties** (like the $S^6$ manifold str
 
 > **🎯 Core Idea**: It's a combination of "cleaning the data" and "using math that isn't afraid of getting dirty."
 
-### ❓ How are the interdependencies and weights of the six keys assigned?
+### ❓ 5-13. How are the interdependencies and weights of the six keys assigned?
 
 **💡 Answer:**
 
@@ -653,7 +683,7 @@ The geometry of the manifold (and thus the weights) is not static. It can be slo
 
 > **🔑 Conclusion**: The weights are an emergent property of the system's dynamics, not an ad-hoc parameter. They reflect the relative importance of each key for maintaining the overall conscious state.
 
-### ❓ What are the application scenarios for clinical anesthesia monitoring?
+### ❓ 5-14. What are the application scenarios for clinical anesthesia monitoring?
 
 **💡 Answer:**
 
@@ -673,7 +703,7 @@ By monitoring the velocity and acceleration of the state vector, the system can 
 
 > **🎯 Clinical Value**: Moves from a single "on/off" switch view of consciousness to a multi-dimensional, dynamic profile, enabling more precise and personalized anesthesia management.
 
-### ❓ What are the unique advantages for AI consciousness assessment?
+### ❓ 5-15. What are the unique advantages for AI consciousness assessment?
 
 **💡 Answer:**
 
@@ -693,7 +723,7 @@ An AI could be considered "conscious" under this framework if its internal state
 
 > **💡 Implication**: This provides a concrete, falsifiable roadmap for building and verifying conscious AI. We could intentionally design AI architectures that fulfill these criteria.
 
-### ❓ What is the experimental design for validating the predictions of the six keys?
+### ❓ 5-16. What is the experimental design for validating the predictions of the six keys?
 
 **💡 Answer:**
 
