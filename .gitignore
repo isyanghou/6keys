@@ -296,3 +296,7 @@ copy_*.bat
 *_internal_tool.py
 *_helper.py
 *_utils_local.py
+
+# Internal Python library directory
+../內部py庫/
+內部py庫/
