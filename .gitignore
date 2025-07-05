@@ -288,3 +288,11 @@ htmlcov/
 
 # Ruff
 .ruff_cache/
+
+# Internal development tools (should not be in public repo)
+renumber_and_link_qa.py
+fix_*.py
+copy_*.bat
+*_internal_tool.py
+*_helper.py
+*_utils_local.py
