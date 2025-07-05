@@ -53,6 +53,57 @@
 | **ζ₅** | **PWC** | Phase-Wrapped Circulation |
 | **ζ₆** | **ACI** | Astrocyte-Coupling Index |
 
+## 💬 **Core Q&A Preview**
+
+**Want to quickly understand Six Keys Criticality theory? Here are the most frequently asked core questions:**
+
+<details>
+<summary><strong>🧠 Q1: What is "Six Keys Criticality"? Why six indicators?</strong></summary>
+
+**A:** Six Keys Criticality is a consciousness analysis framework based on critical transition theory. Six indicators are chosen because:
+- **Mathematical constraint**: 6-dimensional Lie algebra structure of SO(7) group
+- **Biological correspondence**: Maps to six core functional modules of the brain
+- **Criticality**: Each indicator captures critical transition features at different scales
+
+The six indicators work synergistically to form a complete consciousness state description space.
+</details>
+
+<details>
+<summary><strong>⚡ Q2: How does this theory explain consciousness loss during anesthesia?</strong></summary>
+
+**A:** During anesthesia, the six indicators fail sequentially:
+1. **ζ₁ (FELC)** affected first - energy metabolism changes
+2. **ζ₆ (ACI)** declines next - neuro-glial coupling weakens
+3. **ζ₄ (ECGP)** critical collapse - causal connections break
+4. Other indicators cascade, system leaves critical state
+
+This explains why consciousness loss is sudden rather than gradual.
+</details>
+
+<details>
+<summary><strong>🎵 Q3: Why does music trigger strong emotional responses?</strong></summary>
+
+**A:** Music affects the six-key system through multiple dimensions:
+- **Rhythm** → ζ₁ (energy phase) → bodily rhythm sensation
+- **Harmonic tension** → ζ₆ (topological winding) → emotional climax
+- **Melody** → ζ₂ (information scale) → expectation and satisfaction
+
+When harmony resolves, ζ₆'s topological winding releases instantly, producing the "chills" effect.
+</details>
+
+<details>
+<summary><strong>🔬 Q4: Can this theory be experimentally validated?</strong></summary>
+
+**A:** Absolutely! The theory provides specific measurable predictions:
+- **Critical thresholds**: Consciousness transitions should occur at specific D_w values
+- **Six-key coordination**: All indicators should change synchronously
+- **Reversibility**: Consciousness recovery should follow the reverse path
+
+Multi-center validation experiments are currently underway, with preliminary results supporting theoretical predictions.
+</details>
+
+> **🎯 Want to learn more?** Check out the complete **[📖 Six Keys Criticality Q&A Collection](Six-Keys_Criticality_QA.md)** - featuring 26 in-depth questions covering the complete knowledge system from theoretical foundations to technical implementation and experimental applications.
+
 > 📖 **Learn More**: [Detailed Theory](theory.md) | [Mathematical Foundations](paper/A-0_Mathematical_Derivations.md)
 
 ---
