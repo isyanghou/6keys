@@ -25,7 +25,7 @@ By the end of this guide, you'll be able to:
 |---------|----------------|------|
 | 🔧 **Installation Issues** | Check installation guide | [Installation Guide](installation.md) |
 | ❓ **Error Messages** | Check common problems | [FAQ](faq.md) |
-| 📊 **Data Format** | See data requirements | [Data Processing Guide](../data-processing.md) |
+| 📊 **Data Format** | See data requirements | [API Documentation](../api/) |
 | 🎨 **Visualization** | Learn plotting basics | [Visualization Tutorial](visualization.md) |
 
 This guide will help you get started with the Six Keys Criticality framework quickly.
@@ -403,7 +403,7 @@ with Pool() as pool:
 ### 📚 **Learning Resources**
 - [❓ FAQ](faq.md) - Common questions and troubleshooting
 - [🎮 Interactive Examples](../../examples/) - Hands-on demonstrations
-- [📖 Best Practices](../best-practices.md) - Tips for effective analysis
+- [📖 API Documentation](../api/) - Tips for effective analysis
 
 ---
 

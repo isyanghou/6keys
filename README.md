@@ -19,8 +19,8 @@
 
 | 用戶類型 | 推薦路徑 | 說明 |
 |---------|---------|------|
-| 🆕 **新手用戶** | [🚀 快速開始](docs/quickstart.md) → [❓ 常見問題](docs/faq.md) | 5分鐘上手指南 |
-| 🧠 **理論研究者** | [📚 完整論文](docs/zh/paper/) → [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) | 深入理論背景 |
+| 🆕 **新手用戶** | [🚀 快速開始](docs/quickstart.md) → [❓ 常見問題](docs/faq.md) → [💬 問答集](docs/六鑰臨界問與答.md) | 5分鐘上手指南 |
+| 🧠 **理論研究者** | [📚 完整論文](docs/zh/paper/) → [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) → [💬 深度問答](docs/六鑰臨界問與答.md) | 深入理論背景 |
 | 👨‍💻 **程式開發者** | [📚 API文檔](docs/api/) → [🔧 開發者指南](docs/developers.md) | 技術實現細節 |
 | 🔬 **實驗驗證者** | [🧪 實驗指南](docs/experiments.md) → [📊 可視化教程](docs/visualization.md) | 實驗設計方法 |
 
@@ -34,8 +34,8 @@
 
 | User Type | Recommended Path | Description |
 |-----------|------------------|-------------|
-| 🆕 **New Users** | [🚀 Quick Start](docs/en/quickstart.md) → [❓ FAQ](docs/en/faq.md) | 5-minute getting started guide |
-| 🧠 **Researchers** | [📚 Complete Paper](docs/en/paper/) → [🧮 Mathematical Derivations](docs/en/paper/A_Mathematical_Derivations_Detailed.md) | In-depth theoretical background |
+| 🆕 **New Users** | [🚀 Quick Start](docs/en/quickstart.md) → [❓ FAQ](docs/en/faq.md) → [💬 Q&A Collection](docs/en/Six-Keys_Criticality_QA.md) | 5-minute getting started guide |
+| 🧠 **Researchers** | [📚 Complete Paper](docs/en/paper/) → [🧮 Mathematical Derivations](docs/en/paper/A_Mathematical_Derivations_Detailed.md) → [💬 In-depth Q&A](docs/en/Six-Keys_Criticality_QA.md) | In-depth theoretical background |
 | 👨‍💻 **Developers** | [📚 API Docs](docs/api/) → [🔧 Developer Guide](docs/developers.md) | Technical implementation details |
 | 🔬 **Experimenters** | [🧪 Experiment Guide](docs/en/experiments.md) → [📊 Visualization Tutorial](docs/en/visualization.md) | Experimental design methods |
 
@@ -85,7 +85,7 @@ for key, value in results.items():
     print(f"{key}: {value:.4f}")
 ```
 
-> 📖 **詳細教程**: [完整安裝指南](docs/installation.md) | [使用教程](docs/tutorials/) | [API文檔](docs/api/)
+> 📖 **詳細教程**: [完整安裝指南](docs/installation.md) | [快速開始](docs/quickstart.md) | [API文檔](docs/api/)
 
 ## 📊 主要功能 | Key Features
 
@@ -138,7 +138,7 @@ sixkeys/
 
 六鑰臨界理論基於臨界轉換理論、自由能原理、網絡拓撲學和資訊理論，通過六個核心指標量化神經系統的臨界狀態轉換。
 
-> 📖 **深入了解**: [理論背景詳解](docs/theory.md) | [數學推導](docs/mathematical-foundations.md)
+> 📖 **深入了解**: [理論背景詳解](docs/theory.md) | [數學推導](docs/zh/paper/A-0_數學推導詳解.md)
 
 ## 🎨 可視化演示 | Visualization Demos
 
@@ -157,6 +157,30 @@ pip install matplotlib seaborn scipy pandas
 
 > 📖 **詳細說明**: [可視化教程](docs/visualization.md)
 
+## 💬 六鑰臨界問答集 | Six Keys Q&A Collection
+
+**📖 [六鑰臨界問與答完整版](docs/六鑰臨界問與答.md)** - 深度理論解析與實踐指南
+
+### 🎯 問答集特色
+
+- **📊 26個核心問題** - 涵蓋理論基礎到實際應用的完整知識體系
+- **🔬 深度技術解析** - 包含數學推導、程式碼實現和實驗設計
+- **🌐 跨學科整合** - 融合神經科學、物理學、資訊理論和人工智能
+- **💻 實用代碼示例** - 提供可執行的Python代碼和詳細註解
+- **📈 視覺化展示** - 豐富的圖表、公式和結構化表格
+
+### 🗂️ 主要內容分類
+
+| 類別 | 問題範圍 | 適合對象 |
+|------|----------|----------|
+| **🧠 理論基礎** | Q1-Q10 | 研究者、學者 |
+| **🔧 技術實現** | Q11-Q20 | 開發者、工程師 |
+| **🔬 實驗應用** | Q21-Q26 | 實驗者、臨床醫師 |
+
+> 💡 **推薦閱讀順序**: 新手用戶建議從Q1開始順序閱讀，有經驗的研究者可直接跳轉到感興趣的專題。
+
+---
+
 ## 📚 文檔和教程 | Documentation & Tutorials
 
 ### 🎯 按需求快速定位 | Quick Access by Needs
@@ -167,8 +191,9 @@ pip install matplotlib seaborn scipy pandas
 **推薦學習路徑**:
 1. [🚀 快速開始](docs/quickstart.md) - 5分鐘上手
 2. [⚙️ 安裝指南](docs/installation.md) - 詳細安裝步驟
-3. [❓ 常見問題](docs/faq.md) - 解決常見疑問
-4. [📊 可視化教程](docs/visualization.md) - 學習結果展示
+3. [💬 問答集](docs/六鑰臨界問與答.md) - 理論基礎與實踐指南
+4. [❓ 常見問題](docs/faq.md) - 解決常見疑問
+5. [📊 可視化教程](docs/visualization.md) - 學習結果展示
 
 **🔗 遇到問題？** → [❓ FAQ](docs/faq.md) | [💬 聯繫我們](mailto:isyanghou@gmail.com)
 </details>
@@ -178,9 +203,10 @@ pip install matplotlib seaborn scipy pandas
 
 **推薦學習路徑**:
 1. [🧠 理論背景](docs/theory.md) - 理論基礎概述
-2. [📚 完整論文](docs/zh/paper/) - 中文完整論文
-3. [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) - 詳細數學證明
-4. [🔬 實驗驗證](docs/experiments.md) - 實驗設計方法
+2. [💬 問答集](docs/六鑰臨界問與答.md) - 深度理論解析與常見問題
+3. [📚 完整論文](docs/zh/paper/) - 中文完整論文
+4. [🧮 數學推導](docs/zh/paper/A-0_數學推導詳解.md) - 詳細數學證明
+5. [🔬 實驗驗證](docs/experiments.md) - 實驗設計方法
 
 **🌐 其他語言**: [🇺🇸 English Paper](docs/en/paper/)
 </details>
@@ -203,6 +229,7 @@ pip install matplotlib seaborn scipy pandas
 |---------|------|----------|
 | 📖 **快速開始** | [開始使用](docs/quickstart.md) | 所有用戶 |
 | 📚 **完整論文** | [中文](docs/zh/paper/) \| [English](docs/en/paper/) | 研究者 |
+| 💬 **問答集** | [六鑰臨界問與答](docs/六鑰臨界問與答.md) | 所有用戶 |
 | 🔧 **API文檔** | [技術文檔](docs/api/) | 開發者 |
 | ❓ **常見問題** | [FAQ](docs/faq.md) | 所有用戶 |
 

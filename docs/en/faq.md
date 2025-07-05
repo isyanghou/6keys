@@ -25,7 +25,7 @@
 |---------|----------|------|
 | 🔧 **Can't Install** | Step-by-step installation guide | [Installation Guide](installation.md) |
 | ❌ **Getting Errors** | Common error solutions | [Error Troubleshooting](#common-errors) |
-| 📊 **Data Problems** | Data format and processing help | [Data Processing Guide](../data-processing.md) |
+| 📊 **Data Problems** | Data format and processing help | [API Documentation](../api/) |
 | 🚀 **Need Quick Start** | Get running in 5 minutes | [Quick Start Guide](quickstart.md) |
 
 This document answers common questions when using the Six Keys Criticality framework.

@@ -25,6 +25,7 @@
 #### 🧠 **Theory & Research**
 - [📖 Theoretical Background](theory.md) - Core concepts and foundations
 - [📚 Complete Academic Paper](paper/) - Full research paper in English
+- [❓ Six Keys Q&A Collection](Six-Keys_Criticality_QA.md) - Comprehensive FAQ and detailed explanations
 - [🧮 Mathematical Foundations](paper/A-0_Mathematical_Derivations.md) - Detailed mathematical proofs
 - [🔬 Experimental Validation](experiments.md) - Research methodology and validation
 
@@ -37,7 +38,7 @@
 #### 📊 **Analysis & Visualization**
 - [📈 Visualization Tutorial](visualization.md) - Creating charts and plots
 - [🎨 Demo Examples](../../examples/) - Interactive demonstrations
-- [📊 Data Processing](../data-processing.md) - Data handling best practices
+- [📊 Data Processing](../api/) - Data handling best practices
 
 ---
 
@@ -74,9 +75,10 @@
 
 **Recommended Path**:
 1. [🧠 Theory Overview](theory.md) - Core concepts
-2. [📚 Complete Paper](paper/) - Full academic paper
-3. [🧮 Mathematical Proofs](paper/A-0_Mathematical_Derivations.md) - Detailed derivations
-4. [🔬 Experimental Design](experiments.md) - Validation methods
+2. [❓ Six Keys Q&A](Six-Keys_Criticality_QA.md) - Comprehensive FAQ and explanations
+3. [📚 Complete Paper](paper/) - Full academic paper
+4. [🧮 Mathematical Proofs](paper/A-0_Mathematical_Derivations.md) - Detailed derivations
+5. [🔬 Experimental Design](experiments.md) - Validation methods
 
 **🌐 Other Languages**: [🇨🇳 Chinese Paper](../zh/paper/)
 
@@ -96,7 +98,7 @@
 
 **Recommended Path**:
 1. [🔬 Experiment Guide](experiments.md) - Research methodology
-2. [📊 Data Processing](../data-processing.md) - Data handling
+2. [📊 Data Processing](../api/) - Data handling
 3. [📈 Statistical Analysis](paper/09-1_Cross_Validation_and_Integrated_Experimental_Design.md) - Validation methods
 4. [📊 Visualization Tutorial](visualization.md) - Result presentation
 
@@ -117,6 +119,7 @@
 
 ### 📄 **Academic Papers**
 - [📚 Complete English Paper](paper/) - Full research documentation
+- [❓ Six Keys Q&A Collection](Six-Keys_Criticality_QA.md) - Comprehensive FAQ with 26 detailed questions and answers
 - [🧮 Mathematical Derivations](paper/A-0_Mathematical_Derivations.md) - Detailed proofs
 - [📊 Experimental Results](paper/07_Experimental_Results_and_Analysis.md) - Validation data
 
