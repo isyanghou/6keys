@@ -8,51 +8,97 @@ This Q&A knowledge base was generated and organized with AI assistance under the
 ## 📑 Quick Navigation Directory
 
 ### 🧠 [Part I: Core Concepts](#-part-i-core-concepts)
-- [Question 1: What is the "Six-Keys Criticality" theory?](#-question-1-what-is-the-six-keys-criticality-theory)
-- [Question 2: Why exactly "six keys"?](#-question-2-why-exactly-six-keys-where-does-this-number-come-from)
-- [Question 3: What is the "critical tube"?](#-question-3-what-is-the-critical-tube-repeatedly-mentioned-in-the-theory)
+- [What is the "Six-Keys Criticality" theory?](#-what-is-the-six-keys-criticality-theory)
+- [Why exactly "six keys"?](#-why-exactly-six-keys-where-does-this-number-come-from)
+- [What is the "critical tube"?](#-what-is-the-critical-tube-repeatedly-mentioned-in-the-theory)
 
 ### 🔬 [Part II: Theoretical Deductions and Explanatory Power](#-part-ii-theoretical-deductions-and-explanatory-power)
-- [Question 4: How does it explain the brain's "energy mystery"?](#-question-4-how-does-this-theory-explain-the-brains-energy-mystery)
-- [Question 5: How does it explain the "consciousness capacity mystery"?](#-question-5-how-does-the-theory-explain-the-consciousness-capacity-mystery)
-- [Question 6: Does the "perfect six-dimensional sphere" still hold in real brains?](#-question-6-real-brains-are-full-of-noise-and-imperfections-does-the-perfect-six-dimensional-sphere-in-the-theory-still-hold)
+- [How does it explain the brain's "energy mystery"?](#-how-does-this-theory-explain-the-brains-energy-mystery)
+- [How does it explain the "consciousness capacity mystery"?](#-how-does-the-theory-explain-the-consciousness-capacity-mystery)
+- [Does the "perfect six-dimensional sphere" still hold in real brains?](#-real-brains-are-full-of-noise-and-imperfections-does-the-perfect-six-dimensional-sphere-in-the-theory-still-hold)
+- [Why must the decision curve satisfy the "Turning Number Theorem"?](#-why-must-the-decision-curve-satisfy-the-turning-number-theorem)
 
 ### ⚗️ [Part III: Technical Details and Verifiability](#-part-iii-technical-details-and-verifiability)
-- [Question 7: What concepts do the six keys correspond to?](#-question-7-what-biological-or-physical-concepts-do-the-six-keys-correspond-to)```
-- [Question 8: Can the theory be experimentally verified or falsified?](#-question-8-can-the-theory-be-experimentally-verified-or-falsified)
-- [Question 9: Why must the decision curve satisfy the "Turning Number Theorem"?](#-question-9-why-must-the-decision-curve-satisfy-the-turning-number-theorem)
+- [What concepts do the six keys correspond to?](#-what-biological-or-physical-concepts-do-the-six-keys-correspond-to)
+- [Can the theory be experimentally verified or falsified?](#-can-the-theory-be-experimentally-verified-or-falsified)
 ```
 ### 🌐 [Part IV: Theoretical Extensions and Applications](#-part-iv-theoretical-extensions-and-applications)
-- [Question 9: Is it compatible with other mainstream theories of mind?](#-question-9-how-is-this-theory-compatible-with-other-mainstream-theories-of-mind-such-as-integrated-information-theory-iit-and-free-energy-principle-fep)
-- [Question 10: How does it explain consciousness "content"?](#-question-10-how-does-the-theory-explain-consciousness-content-qualia-such-as-the-feeling-of-seeing-red)
+- [Is it compatible with other mainstream theories of mind?](#-how-is-this-theory-compatible-with-other-mainstream-theories-of-mind-such-as-integrated-information-theory-iit-and-free-energy-principle-fep)
+- [How does it explain consciousness "content"?](#-how-does-the-theory-explain-consciousness-content-qualia-such-as-the-feeling-of-seeing-red)
 
 ### 🧬 [Part V: Deep Exploration and Frontier Questions](#-part-v-deep-exploration-and-frontier-questions)
-- [Question 11: How are near-death experiences explained?](#-question-11-how-does-six-keys-criticality-explain-that-people-can-still-report-vivid-experiences-nde-near-death-experiences-when-dying-near-death-or-after-cardiac-arrest)
-- [Question 12: Why are dreams so vivid?](#-question-12-why-can-perceptions-in-dreams-be-as-vivid-as-when-awake)
-- [Question 13: Does free will still exist?](#-question-13-is-there-still-room-for-free-will-in-the-six-keys-model-are-decisions-necessarily-predictable)
-- [Question 14: Why does music evoke strong emotions?](#-question-14-why-can-music-especially-rhythm-and-harmony-evoke-strong-emotions-even-goosebumps)
-- [Question 15: What is the neural basis of animal consciousness?](#-question-15-why-do-animals-like-crows-and-dolphins-still-show-reasoning-or-tool-use-abilities-despite-lacking-a-large-neocortex-compared-to-humans)
-- [Question 16: Can consciousness quality be trained and improved?](#-question-16-can-humans-permanently-improve-the-stability-of-ζ6-through-training-or-technical-means-thereby-enhancing-flow-or-meditation-quality)
-- [Question 17: Will AI develop consciousness?](#-question-17-if-ai-chips-with-human-brain-scale-emerge-in-the-future-does-six-keys-criticality-predict-they-will-develop-consciousness)
-- [Question 18: What is the "self"?](#-question-18-what-is-the-self-why-do-we-subjectively-feel-a-continuous-and-unified-me)
-- [Question 19: Why does psychological time stretch and contract?](#-question-19-why-does-psychological-time-stretch-and-contract-happy-times-fly-by-boring-moments-drag-on)
-- [Question 20: Why are dreams absurd and illogical?](#-question-20-why-do-dreams-often-appear-absurd-and-illogical)
-- [Question 21: Mathematical basis for SO(7) group selection?](#-question-21-why-does-six-keys-criticality-theory-choose-the-so7-group-rather-than-su3-or-other-symmetry-groups)
+- [How are near-death experiences explained?](#-how-does-six-keys-criticality-explain-that-people-can-still-report-vivid-experiences-nde-near-death-experiences-when-dying-near-death-or-after-cardiac-arrest)
+- [Why are dreams so vivid?](#-why-can-perceptions-in-dreams-be-as-vivid-as-when-awake)
+- [Does free will still exist?](#-is-there-still-room-for-free-will-in-the-six-keys-model-are-decisions-necessarily-predictable)
+- [Why does music evoke strong emotions?](#-why-can-music-especially-rhythm-and-harmony-evoke-strong-emotions-even-goosebumps)
+- [What is the neural basis of animal consciousness?](#-why-do-animals-like-crows-and-dolphins-still-show-reasoning-or-tool-use-abilities-despite-lacking-a-large-neocortex-compared-to-humans)
+- [Can consciousness quality be trained and improved?](#-can-humans-permanently-improve-the-stability-of-ζ6-through-training-or-technical-means-thereby-enhancing-flow-or-meditation-quality)
+- [Will AI develop consciousness?](#-if-ai-chips-with-human-brain-scale-emerge-in-the-future-does-six-keys-criticality-predict-they-will-develop-consciousness)
+- [What is the "self"?](#-what-is-the-self-why-do-we-subjectively-feel-a-continuous-and-unified-me)
+- [Why does psychological time stretch and contract?](#-why-does-psychological-time-stretch-and-contract-happy-times-fly-by-boring-moments-drag-on)
+- [Why are dreams absurd and illogical?](#-why-do-dreams-often-appear-absurd-and-illogical)
+- [Mathematical basis for SO(7) group selection?](#-why-does-six-keys-criticality-theory-choose-the-so7-group-rather-than-su3-or-other-symmetry-groups)
 
 ### 🔬 [Part VI: Technical Implementation and Application](#-part-vi-technical-implementation-and-application)
-- [Question 22: How does the Six-Keys framework handle noise and artifacts in real neural data?](#-question-22-how-does-the-six-keys-framework-handle-noise-and-artifacts-in-real-neural-data)
-- [Question 23: How are the interdependencies and weights of the six keys assigned?](#-question-23-how-are-the-interdependencies-and-weights-of-the-six-keys-assigned)
-- [Question 24: What are the application scenarios for clinical anesthesia monitoring?](#-question-24-what-are-the-application-scenarios-for-clinical-anesthesia-monitoring)
-- [Question 25: What are the unique advantages for AI consciousness assessment?](#-question-25-what-are-the-unique-advantages-for-ai-consciousness-assessment)
-- [Question 26: What is the experimental design for validating the predictions of the six keys?](#-question-26-what-is-the-experimental-design-for-validating-the-predictions-of-the-six-keys)
+- [How does the Six-Keys framework handle noise and artifacts in real neural data?](#-how-does-the-six-keys-framework-handle-noise-and-artifacts-in-real-neural-data)
+- [How are the interdependencies and weights of the six keys assigned?](#-how-are-the-interdependencies-and-weights-of-the-six-keys-assigned)
+- [What are the application scenarios for clinical anesthesia monitoring?](#-what-are-the-application-scenarios-for-clinical-anesthesia-monitoring)
+- [What are the unique advantages for AI consciousness assessment?](#-what-are-the-unique-advantages-for-ai-consciousness-assessment)
+- [What is the experimental design for validating the predictions of the six keys?](#-what-is-the-experimental-design-for-validating-the-predictions-of-the-six-keys)
 
 ---
+
+### ❓ Why must the decision curve satisfy the "Turning Number Theorem"?
+
+**Sub-question: Why must the total curvature integral $\displaystyle\oint\kappa,ds$ of a closed thought loop be an integer multiple of $2\pi n$?**
+
+**💡 Answer:**
+
+In the Six-Keys Criticality framework, when the brain repeatedly weighs the same option, the state vector $\Psi(t)\in S^{6}$ travels along a **closed geodesic** loop. For any smooth closed curve $\gamma\subset S^{6}$, the generalized Gauss–Bonnet / Turning Number Theorem gives
+
+$$\oint_{\gamma}\kappa\,ds \;=\;2\pi\,\mathrm{Ind}(\gamma)\quad(\mathrm{Ind}\in\mathbb Z)$$
+
+where $\kappa$ is the embedding curvature and $\mathrm{Ind}$ is the turning number (winding number). Because the second-order Gaussian curvature of $S^{6}$ is constant in the Goldstone limit, and $\gamma$ must close within the **critical tube** $\Sigma_c$, the total curvature of the entire cognitive trajectory is constrained to be **strictly quantized**. This reinforces the hyperbolic law $\kappa\propto 1/T$ (decision time $T$ is inversely proportional to instantaneous curvature) previously obtained for open trajectories, and extends "efficiency" to the overall topological conservation of **closed loops**.
+
+#### Sub-question: How can the "total curvature quantization" prediction be experimentally verified?
+
+**💡 Answer:**
+
+| Verification Step | Technical Points | Success Criterion |
+| :--- | :--- | :--- |
+| 1. High-Resolution Dynamic Imaging | 7T fMRI (>2 Hz) or OPM-MEG (ms-level) to acquire whole-brain activity. | Spatio-temporal resolution sufficient to reconstruct 100 ms-level decision loops. |
+| 2. Manifold Projection | First, use non-linear Laplacian eigenmaps for conformal dimensionality reduction to $d=6$, then correct with the Fisher–Rao metric to avoid projection distortion. | Principal components after projection still correspond one-to-one with the six-key modes. |
+| 3. Closed Trajectory Labeling | Induce predictable "thinking loops" through behavioral prepare-execute-withdraw tasks, and check $\Psi(t_0)=\Psi(t_0+T)$ with a Poincaré section. | ≥80% of trials show closed conditions. |
+| 4. Numerical Curvature Integration | Calculate arc segment curvature $\kappa_i$ using a discrete Frenet–Serret frame, and accumulate $\sum_i \kappa_i\Delta s_i$. | The histogram of the integral results shows clear peaks near integer multiples of $2\pi$. |
+| 5. Parameter Scan | Operationally change the load (difficulty, time pressure) to test if the turning number remains constant. | $n$ is a step-constant with respect to intervention parameters, with discontinuous jumps only in failed trials. |
+
+**Key Falsifiability**
+
+If a large number of closed loops' $\oint\kappa ds$ systematically fall at non-integer multiples of $2\pi$ (e.g., $1.5\pi,;1.8\pi$), or if the turning number smoothly drifts with task intensity, then the **geodesic-topological hypothesis is falsified**. Conversely, quantization will become one of the most precise geometric validations of Six-Keys Criticality.
+
+#### Sub-question: Are curvature and turning number still reliable after projection to lower dimensions?
+
+**💡 Answer:**
+
+- **Riemannian-Conformal Projection**
+  Using the Fisher information metric as a weight, it can be proven that the relative curvature error $\varepsilon_\kappa \le 5%$, with no topological variation within the $\Sigma_c$ thickness $\varepsilon\sim10^{-2}$.
+- **Random Resampling Test**
+  Perform bootstrapping on data subsets. If the peak of the turning number distribution remains at integer points (0, ±1, ±2…), then the projection fidelity is sufficient.
+- **Comparison of Different Reducers**
+  If UMAP/Isomap/Diffusion Map yield consistent turning numbers, algorithmic bias can be ruled out.
+
+Overall, as long as the two key checks of **conformal projection** + **resampling consistency** pass, the curvature and integer winding measurements can be trusted.
+
+#### Experimental Memo
+
+- It is recommended to simultaneously record reaction time $T$ within a single trial to compare with the hyperbolic law $\kappa\propto 1/T$ for open trajectories, to verify **open-closed trajectory theoretical consistency**.
+- To improve the signal-to-noise ratio, the loop can be segmented and smoothed, and the integration can be stopped at a threshold of $\|\dot\Psi\|<0.05$ to avoid noise amplification during stationary periods.
 
 ---
 
 ## 🧠 Part I: Core Concepts
 
-### ❓ Question 1: What is the "Six-Keys Criticality" theory?
+### ❓ What is the "Six-Keys Criticality" theory?
 
 **💡 Answer:**
 
@@ -67,7 +113,7 @@ An effective field theory that explains the physical foundation. It answers the 
 > **🔗 Core Concept**  
 > The "six keys" are observable phenomena, while the "field theory" is the underlying physical explanation. Together, they constitute a complete theory that is both measurable and falsifiable.
 
-### ❓ Question 2: Why exactly "six keys"? Where does this number come from?
+### ❓ Why exactly "six keys"? Where does this number come from?
 
 **💡 Answer:**
 
@@ -97,7 +143,7 @@ The number "six" is not artificially set but naturally derived from physical sym
 > **🔑 Conclusion**  
 > The system necessarily and uniquely produces six low-energy Goldstone modes, which is the physical origin of the "six keys."
 
-### ❓ Question 3: What is the "critical tube" repeatedly mentioned in the theory?
+### ❓ What is the "critical tube" repeatedly mentioned in the theory?
 
 **💡 Answer:**
 
@@ -129,7 +175,7 @@ Operational definition: If the state vector Ψ(t) continuously resides within th
 
 ## 🔬 Part II: Theoretical Deductions and Explanatory Power
 
-### ❓ Question 4: How does this theory explain the brain's "energy mystery"?
+### ❓ How does this theory explain the brain's "energy mystery"?
 > Why is the marginal energy cost of complex thinking almost zero?
 
 **💡 Answer:**
@@ -154,7 +200,7 @@ The continuous flow of consciousness, thinking, and perceptual switching are mod
 > **🎯 Core Insight**  
 > Thinking is just sliding on an already laid, flat track, so marginal energy cost is extremely low.
 
-### ❓ Question 5: How does the theory explain the "consciousness capacity mystery"?
+### ❓ How does the theory explain the "consciousness capacity mystery"?
 > Why doesn't consciousness capacity increase linearly with the number of neurons?
 
 **💡 Answer:**
@@ -188,7 +234,7 @@ This log N scaling law perfectly explains:
 > **📈 Core Discovery**  
 > The logarithmic scaling law avoids "combinatorial explosion" of consciousness capacity, making evolution possible under energy constraints.
 
-### ❓ Question 6: Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold?
+### ❓ Real brains are full of noise and imperfections. Does the "perfect six-dimensional sphere" in the theory still hold?
 
 **💡 Answer:**
 
@@ -205,7 +251,7 @@ Yes, but it should be understood as "**topological equivalence**."
 
 ## ⚗️ Part III: Technical Details and Verifiability
 
-### ❓ Question 7: What biological or physical concepts do the six keys correspond to?
+### ❓ What biological or physical concepts do the six keys correspond to?
 
 **💡 Answer:**
 
@@ -223,7 +269,7 @@ Each key is a macroscopic observable, reflecting a specific aspect of the brain'
 > **🎯 Core Insight**  
 > These six keys form an orthogonal basis, providing a complete and non-redundant description of the brain's conscious state.
 
-### ❓ Question 8: Can this theory be experimentally verified or falsified?
+### ❓ Can the theory be experimentally verified or falsified?
 
 **💡 Answer:**
 
@@ -249,7 +295,7 @@ Yes, the theory is designed to be testable. It provides several clear, falsifiab
 
 ---
 
-### ❓ Question 9: Why must the decision curve satisfy the "Turning Number Theorem"?
+
 
 **Sub-question: Why must the total curvature integral of a closed thought loop, $\displaystyle\oint\kappa,ds$, be an integer multiple of $2\pi n$?**
 
@@ -299,7 +345,7 @@ Overall, as long as the two key checks of **conformal projection** and **resampl
 
 ## 🌐 Part IV: Theoretical Extensions and Applications
 
-### ❓ Question 9: How is this theory compatible with other mainstream theories of mind, such as Integrated Information Theory (IIT) and Free Energy Principle (FEP)?
+### ❓ How is this theory compatible with other mainstream theories of mind (such as Integrated Information Theory, IIT, and Free Energy Principle, FEP)?
 
 **💡 Answer:**
 
@@ -313,7 +359,7 @@ The Six-Keys theory does not aim to replace them, but rather to provide a physic
 > **🤝 Unification**  
 > Six-Keys acts as a bridge, connecting abstract principles (like Φ or free energy) to concrete, measurable physical dynamics (Goldstone modes).
 
-### ❓ Question 10: How does the theory explain consciousness content (qualia), such as the feeling of seeing red?
+### ❓ How does the theory explain consciousness "content" (qualia), such as the feeling of seeing red?
 
 **💡 Answer:**
 
@@ -332,7 +378,7 @@ The theory primarily focuses on the *state* of consciousness (online/offline), n
 
 ## 🧬 Part V: Deep Exploration and Frontier Questions
 
-### ❓ Question 11: How does Six-Keys Criticality explain that people can still report vivid experiences (NDE, near-death experiences) when dying, near-death, or after cardiac arrest?
+### ❓ How does Six-Keys Criticality explain that people can still report vivid experiences (NDE, Near-Death Experiences) when dying, near death, or after cardiac arrest?
 
 **💡 Answer:**
 
@@ -347,7 +393,7 @@ The theory suggests that NDEs could be a result of the system's final, desperate
 > **💥 Analogy**  
 > Like a dying star going supernova, the brain might exhibit a final burst of coherent activity before shutting down completely.
 
-### ❓ Question 12: Why can perceptions in dreams be as vivid as when awake?
+### ❓ Why can perceptions in dreams be as vivid as when awake?
 
 **💡 Answer:**
 
@@ -361,7 +407,7 @@ Dreaming and wakefulness are two different modes of operation on the same S⁶ m
 > **🎬 Core Idea**  
 > Dreams are the brain's "offline rendering" mode, exploring the full potential of the S⁶ state space without the constraints of reality.
 
-### ❓ Question 13: Is there still room for free will in the Six-Keys model? Are decisions necessarily predictable?
+### ❓ Is there still room for free will in the Six-Keys model? Are decisions necessarily predictable?
 
 **💡 Answer:**
 
@@ -375,7 +421,7 @@ The model re-frames the question of free will. It suggests that while the system
 > **🦋 Butterfly Effect**  
 > Tiny fluctuations can lead to vastly different outcomes, giving rise to the subjective experience of choice.
 
-### ❓ Question 14: Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps?
+### ❓ Why can music, especially rhythm and harmony, evoke strong emotions, even goosebumps?
 
 **💡 Answer:**
 
@@ -390,7 +436,7 @@ Music acts as a powerful external driver that can resonate with the natural freq
 > **🎻 Core Idea**  
 > Music is not just sound; it is structured information that can directly manipulate the geometry of our conscious state space.
 
-### ❓ Question 15: Why do animals like crows and dolphins still show reasoning or tool-use abilities despite lacking a large neocortex compared to humans?
+### ❓ Why do animals like crows and dolphins still show reasoning or tool-use abilities despite lacking a large neocortex compared to humans?
 
 **💡 Answer:**
 
@@ -404,7 +450,7 @@ The theory emphasizes the *topology* of the neural network, not just its size or
 > **🐦 Key Insight**  
 > Consciousness is an emergent property of the network's organization, not a specific part of the brain. Any system that can instantiate an SO(7) → SO(6) symmetry breaking can be conscious.
 
-### ❓ Question 16: Can humans permanently improve the stability of ζ₆ through training or technical means, thereby enhancing flow or meditation quality?
+### ❓ Can humans permanently improve the stability of ζ₆ through training or technical means, thereby enhancing flow or meditation quality?
 
 **💡 Answer:**
 
@@ -418,7 +464,7 @@ Yes, this is one of the key practical implications of the theory.
 > **🚀 Potential Application**  
 > The Six-Keys framework could provide a quantitative basis for developing technologies that enhance human consciousness and well-being.
 
-### ❓ Question 17: If AI chips with human-brain scale emerge in the future, does Six-Keys Criticality predict they will develop consciousness?
+### ❓ If AI chips with human-brain scale emerge in the future, does Six-Keys Criticality predict they will develop consciousness?
 
 **💡 Answer:**
 
@@ -435,7 +481,7 @@ For an AI to be conscious, it must not only have enough computational elements (
 > **🔌 Core Prediction**  
 > A large language model, even with trillions of parameters, will not be conscious if its architecture does not instantiate the correct topological structure. Consciousness is about *how* you compute, not just *how much* you compute.
 
-### ❓ Question 18: What is the "self"? Why do we subjectively feel a continuous and unified "I"?
+### ❓ What is the "self"? Why do we subjectively feel a continuous and unified "me"?
 
 **💡 Answer:**
 
@@ -450,7 +496,7 @@ The "self" is the temporal continuity of the state vector's trajectory on the S�
 > **🌀 Core Idea**  
 > The "self" is not a thing, but a process—the continuous, stable path traced by our conscious state through its high-dimensional space.
 
-### ❓ Question 19: Why does psychological time stretch and contract? (Happy times fly by, boring moments drag on)
+### ❓ Why does psychological time stretch and contract? (Happy times fly by, boring moments drag on)
 
 **💡 Answer:**
 
@@ -464,7 +510,7 @@ Psychological time is proportional to the path length traversed by the state vec
 > **🕰️ Key Insight**  
 > Our internal clock is not constant; it is a measure of the "distance" traveled in our conscious state space.
 
-### ❓ Question 20: Why do dreams often appear absurd and illogical?
+### ❓ Why do dreams often appear absurd and illogical?
 
 **💡 Answer:**
 
@@ -478,7 +524,7 @@ Dreams represent a state where the constraints on the S⁶ manifold are relaxed,
 > **🎨 Core Idea**  
 > Dreams are the brain's creative playground, exploring the full range of possibilities within its state space, unburdened by the need to accurately model reality.
 
-### ❓ Question 21: Why does Six-Keys Criticality theory choose the SO(7) group rather than SU(3) or other symmetry groups?
+### ❓ Why does Six-Keys Criticality theory choose the SO(7) group rather than SU(3) or other symmetry groups?
 
 **💡 Answer:**
 
@@ -570,7 +616,7 @@ SO(7) is not an arbitrary choice; it is the unique mathematical structure that s
 
 ---
 
-### ❓ Question 22: How does the Six-Keys framework handle noise and artifacts in real neural data?
+### ❓ How does the Six-Keys framework handle noise and artifacts in real neural data?
 
 **💡 Answer:**
 
@@ -588,7 +634,7 @@ The theory's reliance on **topological properties** (like the $S^6$ manifold str
 
 > **🎯 Core Idea**: It's a combination of "cleaning the data" and "using math that isn't afraid of getting dirty."
 
-### ❓ Question 23: How are the interdependencies and weights of the six keys assigned?
+### ❓ How are the interdependencies and weights of the six keys assigned?
 
 **💡 Answer:**
 
@@ -607,7 +653,7 @@ The geometry of the manifold (and thus the weights) is not static. It can be slo
 
 > **🔑 Conclusion**: The weights are an emergent property of the system's dynamics, not an ad-hoc parameter. They reflect the relative importance of each key for maintaining the overall conscious state.
 
-### ❓ Question 24: What are the application scenarios for clinical anesthesia monitoring?
+### ❓ What are the application scenarios for clinical anesthesia monitoring?
 
 **💡 Answer:**
 
@@ -627,7 +673,7 @@ By monitoring the velocity and acceleration of the state vector, the system can 
 
 > **🎯 Clinical Value**: Moves from a single "on/off" switch view of consciousness to a multi-dimensional, dynamic profile, enabling more precise and personalized anesthesia management.
 
-### ❓ Question 25: What are the unique advantages for AI consciousness assessment?
+### ❓ What are the unique advantages for AI consciousness assessment?
 
 **💡 Answer:**
 
@@ -647,7 +693,7 @@ An AI could be considered "conscious" under this framework if its internal state
 
 > **💡 Implication**: This provides a concrete, falsifiable roadmap for building and verifying conscious AI. We could intentionally design AI architectures that fulfill these criteria.
 
-### ❓ Question 26: What is the experimental design for validating the predictions of the six keys?
+### ❓ What is the experimental design for validating the predictions of the six keys?
 
 **💡 Answer:**
 
