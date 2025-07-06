@@ -1,0 +1,26 @@
+flowchart TD
+    X["高維神經動態 X(t)"] -->|非線性嵌入 f| M["神經流形座標 x(t) in M^d"]
+
+    subgraph 三鑰臨界條件 [關鍵三鑰條件 @ M^d]
+        FELC["FELC: 極限環存在 (r0 ± Δr)"]
+        RFI["RFI: Ricci 曲率趨零 (|k| ≤ k_c)"]
+        PWC["PWC: 拓撲環穩定 (2 ≤ beta1 ≤ 6)"]
+    end
+
+    M --> FELC
+    M --> RFI
+    M --> PWC
+
+    FELC --> Z1["ζ1"]
+    RFI --> Z2["ζ2"]
+    PWC --> Z5["ζ5"]
+
+    subgraph 六鑰 ζ 投影空間
+        Z1 --> Dw["加權距離 D_w平方"]
+        Z2 --> Dw
+        Z5 --> Dw
+    end
+
+    Dw -->|臨界逸出？| CTM{"CTM 管道內？"}
+    CTM -- 否 --> Collapse["逸出：意識崩離"]
+    CTM -- 是 --> Stable["維持：主觀覺醒"]

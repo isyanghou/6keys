@@ -1,0 +1,16 @@
+flowchart LR
+  %% --- Modules overview (simplified, colored) ---
+  FELC["🔑 FELC<br/>自由能極限環 (ζ₁)"]:::felc --> RFI["🔑 RFI<br/>Ricci 臨界流 (ζ₃)"]:::rfi
+  RFI --> ECGP["🔑 ECGP<br/>因果滲流臨界 (ζ₄)"]:::ecgp
+  ECGP --> PWC["🔑 PWC<br/>相位拓撲環流 (ζ₅)"]:::pwc
+  PWC --> ACI["🔑 ACI<br/>神經星膠耦合 (ζ₆)"]:::aci
+  ACI --> TEB["🔑 TEB<br/>資訊功率效率 (ζ₂)"]:::teb
+  TEB --> FELC
+
+  %% --- Style definitions from original files ---
+  classDef felc fill:#f7f4fa,stroke:#b591e4,stroke-width:1px
+  classDef rfi  fill:#e1f1ff,stroke:#6ba9ff,stroke-width:1px
+  classDef ecgp fill:#e6f9e6,stroke:#66c366,stroke-width:1px
+  classDef pwc  fill:#fff4e6,stroke:#ffb266,stroke-width:1px
+  classDef aci  fill:#f2e8d5,stroke:#b68d5b,stroke-width:1px
+  classDef teb  fill:#e0e0e0,stroke:#8c8c8c,stroke-width:1px

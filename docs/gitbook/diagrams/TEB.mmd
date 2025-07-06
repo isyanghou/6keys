@@ -1,0 +1,16 @@
+flowchart TD
+  %% Core subgraph for this key
+  subgraph TEB["🔑 TEB – 資訊功率效率 (ζ₂)"]
+    E["ηₑ𝒻𝒻(t)"]:::state -->|判準 C_TEB| BE((Balanced Efficiency))
+  end
+
+  %% Mapping from efficiency to CTM distance
+  BE -->|"ζ₂ → 𝐷ʷ²<br/>w₂ ≈ 0.04 (TBD)"| CTM[CTM 管道距離 𝐷ʷ]
+
+  %% Forward link to downstream key (RFI)
+  CTM --> RFI["🔑 RFI – Ricci 臨界流 (ζ₃)"]
+
+  %% Aesthetics
+  style TEB fill:#e0e0e0,stroke:#8c8c8c
+  style RFI fill:#e1f1ff,stroke:#6ba9ff
+  classDef state fill:#ffffff,stroke:#999999

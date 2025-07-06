@@ -1,0 +1,56 @@
+graph TB
+  %% 方框樣式定義
+  classDef theory   fill:#f9f2e7,stroke:#e6b89c,stroke-width:2px;
+  classDef app      fill:#e0f0ff,stroke:#89cff0,stroke-width:2px;
+  classDef critical fill:#ffebee,stroke:#ef9a9a,stroke-width:2px;
+  classDef yellow   fill:#fff9c4,stroke:#ffd54f,stroke-width:2px;
+
+  %% ───── BACKEND ─────
+  subgraph BACKEND["六石場論【後端：第一性基礎】"]
+    direction TB
+    ST[("自發對稱破缺<br>G → H = {e}")]
+    S[/"作用量  S = ∫ L d⁴x<br>L = L₀ + V + L_diss + L_top"/]
+    GB[("6 個 Goldstone 模<br>ψ₁‒ψ₆")]
+    ST -->|"dim(G/H)=6"| GB
+    GB --> S
+  end
+
+  %% ───── FRONTEND ─────
+  subgraph FRONTEND["六鑰臨界【前端：可操作系統】"]
+    direction TB
+    ZETA[/"六鑰向量 ζ₁‒ζ₆<br>▿ 即時量測 EEG/MEG/fMRI"/]
+    D[("加權距離<br>D_w = √(∑wᵢζᵢ²)")]
+    EXP[("閉迴路實驗")]
+    ZETA --> D
+    D --> EXP
+  end
+
+  %% 理論 ↔ 應用 交界
+  BRIDGE["宏觀平均<br>Ψᵢ(t) = ∫ψᵢ(x,t)d³x"]
+  GB -->|空間零模投影| BRIDGE
+  BRIDGE -->|生成| ZETA
+
+  %% ───── CRITICAL ─────
+  subgraph CRITICAL["臨界細管 Σc"]
+    Σ["|Ψ| = v ∈ S⁶ 球殼<br>D_w ≤ ε"]
+    LAMBDA["徑向穩定 λ⟂<0<br>切向中性 λ∥≈0"]
+    Σ --> LAMBDA
+  end
+  
+  FEEDBACK["雙向驗證循環"]
+  EXP -->|操控守恆流<br>E / I / χ| S
+  S   -->|理論預測| CRITICAL
+  D   -->|狀態判定| CRITICAL
+  CRITICAL -.->|τ_c > 100 ms ⇒<br>意識存在| FEEDBACK
+
+  %% 其他輔助節點
+  THEORY_NOTE[("全域對稱群：<br>G = U(1)φ × ℝ⁺σ × SO(3)n × U(1)τ")]
+  RG[("重整化群流<br>→ RG 固定點 κ*, λ*, …")]
+  S --> RG
+  ST --> THEORY_NOTE
+
+  %% 節點分組樣式
+  class BACKEND theory;
+  class FRONTEND app;
+  class CRITICAL critical;
+  class BRIDGE,FEEDBACK yellow;

@@ -1,0 +1,56 @@
+graph TB
+  %% 群結構定義
+  subgraph SymmetryGroup["全域對稱群 G"]
+    direction LR
+    U1["U(1)φ"] -.- RPlus["ℝ⁺σ"] -.- SO3["SO(3)n"] -.- U1tau["U(1)τ"]
+    style SymmetryGroup fill:#e3f2fd,stroke:#64b5f6,stroke-width:2px,stroke-dasharray:5 5
+  end
+
+  %% 破缺過程
+  classDef breakdown fill:#ffecb3,stroke:#ffa000,stroke-width:2px;
+  Break[("<center>生物邊界條件強制破缺：<br/>G → H = {e}<br/>dim(G/H) = 6</center>")]
+  SymmetryGroup -->|自發對稱破缺| Break
+  style Break fill:#fff8e1,stroke:#ffb300,stroke-width:2px
+
+  %% Goldstone 模生成
+  classDef goldstone fill:#e8f5e9,stroke:#81c784,stroke-width:2px;
+  Goldstone[("<center>6 個 Goldstone 模<br/>ψ₁‒ψ₆</center>")]
+
+  Break -->|必然生成| Goldstone
+
+  %% Goldstone 模細節展開
+  G1["ψ₁：代謝相位<br/>▪ 群分量：U(1)φ<br/>▪ ζ₁ (FELC)"]
+  G2["ψ₂：資訊尺度<br/>▪ 群分量：ℝ⁺σ<br/>▪ ζ₂ (TEB)"]
+  G3["ψ₃：空間流-X<br/>▪ 群分量：SO(3)n<br/>▪ ζ₃ (RFI)"]
+  G4["ψ₄：空間流-Y<br/>▪ 群分量：SO(3)n<br/>▪ ζ₄ (ECGP)"]
+  G5["ψ₅：空間流-Z<br/>▪ 群分量：SO(3)n<br/>▪ ζ₅ (PWC)"]
+  G6["ψ₆：拓撲纏繞<br/>▪ 群分量：U(1)τ<br/>▪ ζ₆ (ACI)"]
+
+  Goldstone --> G1 & G2 & G3 & G4 & G5 & G6
+  class G1,G2,G3,G4,G5,G6 goldstone
+
+  %% 破缺機制
+  classDef mechanism fill:#e0f7fa,stroke:#80deea,stroke-width:2px;
+  Mechanism1["▪ 代謝最低能：鎖定 φ 相位"] 
+  Mechanism2["▪ 感官取向：破壞三軸等向性"] 
+  Mechanism3["▪ 訊息稀釋：固定資訊尺度"] 
+  Mechanism4["▪ 網路拓樸：凍結纏繞自由度"]
+  
+  Break -->|破缺機制| MechGroup
+  subgraph MechGroup["生物邊界強制因素"]
+    Mechanism1
+    Mechanism2
+    Mechanism3
+    Mechanism4
+  end
+  class Mechanism1,Mechanism2,Mechanism3,Mechanism4 mechanism
+
+  %% 真空流形
+  Vacuum["真空流形：S⁶ = G/H"] 
+  Goldstone -->|形成| Vacuum
+  style Vacuum fill:#f3e5f5,stroke:#ba68c8,stroke-width:2px
+
+  %% 破缺原因總結
+  Note["<center>完全破缺 ⇒ 真空唯一不變<br/>H = {e} ⇒ dim(G/H) = 6</center>"]
+  Break --> Note
+  style Note fill:#ffebee,stroke:#f44336,stroke-width:2px

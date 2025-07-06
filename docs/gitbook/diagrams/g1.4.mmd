@@ -1,0 +1,14 @@
+flowchart LR
+    Xi("X_i(t)")
+    Ca("𝒞_a(x,t)")
+    psi("ψ_i(x,t)")
+    Psi("Ψ_i(t)")
+    zeta("ζ_i(t)")
+
+    Xi --|K|--> Ca
+    Ca --|σ-model|--> psi
+    psi --|Ω-avg|--> Psi
+    Psi --|z-score|--> zeta
+
+    %% 六維 SDE 反饋迴路：從 ζ_i(t) 回到 ψ_i(x,t)
+    zeta -. "six-dim SDE" .-> psi

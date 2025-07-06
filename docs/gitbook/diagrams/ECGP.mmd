@@ -1,0 +1,16 @@
+flowchart TD
+  %% Core subgraph for this key
+  subgraph ECGP["🔑 ECGP – 因果滲流臨界 (ζ₄)"]
+    S["σₑ𝒻𝒻(t)"]:::state -->|判準 C_ECGP| PC((Percolation Cluster))
+  end
+
+  %% Mapping from percolation cluster to CTM distance
+  PC -->|"ζ₄ → 𝐷ʷ²<br/>w₄ = 0.18"| CTM[CTM 管道距離 𝐷ʷ]
+
+  %% Forward link to next key in the pipeline
+  CTM --> PWC["🔑 PWC – 相位拓撲環流 (ζ₅)"]
+
+  %% Aesthetics
+  style ECGP fill:#e6f9e6,stroke:#66c366
+  style PWC fill:#fff2e6,stroke:#ff9900
+  classDef state fill:#ffffff,stroke:#999999
