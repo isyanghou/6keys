@@ -25,9 +25,16 @@ Welcome to the complete documentation system for the Six Keys Criticality projec
 
 ## 🌟 主要文檔入口 | Main Documentation Portals
 
-### 📚 完整論文 | Complete Papers
-- **[🇨🇳 中文完整論文](zh/paper/)** - 六鑰臨界理論完整論文 (中文版)
-- **[🇺🇸 English Complete Paper](en/paper/)** - Six Keys Criticality Complete Paper (English)
+### 📖 GitBook 統一文檔中心 | GitBook Documentation Hub
+- **[📚 GitBook 文檔中心](gitbook/)** - 完整論文、問答集和導覽系統的統一平台
+- **[🇨🇳 中文完整論文](gitbook/paper-zh/)** - 六鑰臨界理論完整論文 (中文版)
+- **[🇺🇸 English Complete Paper](gitbook/paper-en/)** - Six Keys Criticality Complete Paper (English)
+- **[🇨🇳 中文問答集](gitbook/qa-zh/Six-Keys_Criticality_QA.md)** - 26個核心問題的詳細解答
+- **[🇺🇸 English Q&A](gitbook/qa-en/Six-Keys_Criticality_QA.md)** - 26 core questions with detailed answers
+
+### 📚 備用論文連結 | Backup Paper Links
+- **[🇨🇳 中文完整論文 (備用)](zh/paper/)** - 六鑰臨界理論完整論文 (中文版)
+- **[🇺🇸 English Complete Paper (備用)](en/paper/)** - Six Keys Criticality Complete Paper (English)
 
 ### 📖 用戶指南 | User Guides
 - **[🚀 快速開始指南](quickstart.md)** - 新手入門教程
@@ -46,15 +53,15 @@ Welcome to the complete documentation system for the Six Keys Criticality projec
 ### 🎯 按用戶類型導航 | Navigation by User Type
 
 1. **新手用戶** → 從 [快速開始](quickstart.md) 開始
-2. **理論研究者** → 閱讀 [完整論文](zh/paper/) 章節
+2. **理論研究者** → 閱讀 [GitBook 完整論文](gitbook/paper-zh/) 或 [備用論文](zh/paper/) 章節
 3. **程式開發者** → 參考 [API文檔](api/) 和 [開發者指南](developers.md)
 4. **實驗驗證者** → 查看 [實驗指南](experiments.md)
 
 ### 📚 按學習深度導航 | Navigation by Learning Depth
 
 - **快速了解** → [README](../README.md) + [快速開始](quickstart.md)
-- **基礎理解** → [理論背景](theory.md) + [六個核心指標概述](zh/paper/02-1_六鑰臨界架構總攬.md)
-- **深入研究** → [完整論文](zh/paper/) + [數學推導](zh/paper/A-0_數學推導詳解.md)
+- **基礎理解** → [理論背景](theory.md) + [六個核心指標概述](gitbook/paper-zh/02-1_六鑰臨界架構總攬.md)
+- **深入研究** → [GitBook 完整論文](gitbook/paper-zh/) + [數學推導](gitbook/paper-zh/A-0_數學推導詳解.md)
 - **實際應用** → [API文檔](api/) + [使用範例](../examples/) + [實驗指南](experiments.md)
 
 ---
@@ -66,7 +73,7 @@ Welcome to the complete documentation system for the Six Keys Criticality projec
 | 基礎文檔 | 進階文檔 | 開發文檔 | 支援資源 |
 |---------|---------|---------|----------|
 | [🚀 快速開始](quickstart.md) | [🧠 理論背景](theory.md) | [📚 API文檔](api/) | [❓ 常見問題](faq.md) |
-| [⚙️ 安裝指南](installation.md) | [📚 完整論文](zh/paper/) | [🔧 開發者指南](developers.md) | [💬 聯繫我們](mailto:isyanghou@gmail.com) |
+| [⚙️ 安裝指南](installation.md) | [📚 GitBook 文檔中心](gitbook/) | [🔧 開發者指南](developers.md) | [💬 聯繫我們](mailto:isyanghou@gmail.com) |
 | [🎨 可視化教程](visualization.md) | [🧪 實驗指南](experiments.md) | [🏗️ 項目結構](project-structure.md) | [🐛 問題回報](https://github.com/isyanghou/6Keys/issues) |
 
 ### 🔙 **返回導航** | **Back Navigation**

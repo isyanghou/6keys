@@ -24,10 +24,12 @@
 
 #### 🧠 **Theory & Research**
 - [📖 Theoretical Background](theory.md) - Core concepts and foundations
-- [📚 Complete Academic Paper](paper/) - Full research paper in English
-- [❓ Six Keys Q&A Collection](Six-Keys_Criticality_QA.md) - Comprehensive FAQ and detailed explanations
-- [🧮 Mathematical Foundations](paper/A-0_Mathematical_Derivations.md) - Detailed mathematical proofs
+- [📚 GitBook Documentation Center](../gitbook/) - **Unified access to complete papers and Q&A collections**
+- [📄 Complete Academic Paper (GitBook)](../gitbook/paper-en/) - Full research paper in English
+- [❓ Six Keys Q&A Collection (GitBook)](../gitbook/qa-en/Six-Keys_Criticality_QA.md) - Comprehensive FAQ and detailed explanations
+- [🧮 Mathematical Foundations](../gitbook/paper-en/A-0_Mathematical_Derivations.md) - Detailed mathematical proofs
 - [🔬 Experimental Validation](experiments.md) - Research methodology and validation
+- [📚 Backup: Complete Paper](paper/) - Alternative access to research paper
 
 #### 🛠️ **Development & Integration**
 - [📚 API Reference](../api/) - Complete API documentation
@@ -126,12 +128,13 @@ Multi-center validation experiments are currently underway, with preliminary res
 
 **Recommended Path**:
 1. [🧠 Theory Overview](theory.md) - Core concepts
-2. [❓ Six Keys Q&A](Six-Keys_Criticality_QA.md) - Comprehensive FAQ and explanations
-3. [📚 Complete Paper](paper/) - Full academic paper
-4. [🧮 Mathematical Proofs](paper/A-0_Mathematical_Derivations.md) - Detailed derivations
-5. [🔬 Experimental Design](experiments.md) - Validation methods
+2. [📚 GitBook Documentation Center](../gitbook/) - **Unified documentation hub**
+3. [❓ Six Keys Q&A (GitBook)](../gitbook/qa-en/Six-Keys_Criticality_QA.md) - Comprehensive FAQ and explanations
+4. [📚 Complete Paper (GitBook)](../gitbook/paper-en/) - Full academic paper
+5. [🧮 Mathematical Proofs](../gitbook/paper-en/A-0_Mathematical_Derivations.md) - Detailed derivations
+6. [🔬 Experimental Design](experiments.md) - Validation methods
 
-**🌐 Other Languages**: [🇨🇳 Chinese Paper](../zh/paper/)
+**🌐 Other Languages**: [🇨🇳 Chinese Documentation (GitBook)](../gitbook/paper-zh/) | [🇨🇳 Chinese Q&A (GitBook)](../gitbook/qa-zh/Six-Keys_Criticality_QA.md)
 
 ### 👨‍💻 **I Want to Develop & Integrate**
 **Goal**: Build applications and contribute to the project
@@ -169,10 +172,12 @@ Multi-center validation experiments are currently underway, with preliminary res
 ## 🌟 **Featured Resources**
 
 ### 📄 **Academic Papers**
-- [📚 Complete English Paper](paper/) - Full research documentation
-- [❓ Six Keys Q&A Collection](Six-Keys_Criticality_QA.md) - Comprehensive FAQ with 26 detailed questions and answers
-- [🧮 Mathematical Derivations](paper/A-0_Mathematical_Derivations.md) - Detailed proofs
-- [📊 Experimental Results](paper/07_Experimental_Results_and_Analysis.md) - Validation data
+- [📚 GitBook Documentation Center](../gitbook/) - **Unified access to all documentation**
+- [📄 Complete English Paper (GitBook)](../gitbook/paper-en/) - Full research documentation
+- [❓ Six Keys Q&A Collection (GitBook)](../gitbook/qa-en/Six-Keys_Criticality_QA.md) - Comprehensive FAQ with 26 detailed questions and answers
+- [🧮 Mathematical Derivations](../gitbook/paper-en/A-0_Mathematical_Derivations.md) - Detailed proofs
+- [📊 Experimental Results](../gitbook/paper-en/07_Experimental_Results_and_Analysis.md) - Validation data
+- [📚 Backup: Complete Paper](paper/) - Alternative access
 
 ### 🛠️ **Tools & Utilities**
 - [🎮 Interactive Demos](../../examples/) - Hands-on examples
@@ -210,10 +215,13 @@ Multi-center validation experiments are currently underway, with preliminary res
 - [Theoretical Background](theory.md)
 
 #### 🔬 **Advanced Documentation**
-- [Complete Academic Paper](paper/)
+- [📚 GitBook Documentation Center](../gitbook/) - **Unified documentation hub**
+- [Complete Academic Paper (GitBook)](../gitbook/paper-en/)
+- [Six Keys Q&A Collection (GitBook)](../gitbook/qa-en/Six-Keys_Criticality_QA.md)
 - [Experimental Methodology](experiments.md)
-- [Mathematical Foundations](paper/A-0_Mathematical_Derivations.md)
-- [Statistical Analysis](paper/08_Statistical_Analysis_and_Validation.md)
+- [Mathematical Foundations](../gitbook/paper-en/A-0_Mathematical_Derivations.md)
+- [Statistical Analysis](../gitbook/paper-en/08_Statistical_Analysis_and_Validation.md)
+- [Backup: Complete Paper](paper/) - Alternative access
 
 #### 👨‍💻 **Developer Documentation**
 - [API Reference](../api/)
@@ -237,4 +245,4 @@ Multi-center validation experiments are currently underway, with preliminary res
 
 *Six Keys Criticality - Advancing Neural Consciousness Research Through Critical Transition Theory*
 
-**🌐 Language**: [🇨🇳 中文文档](../zh/) | **🇺🇸 English Docs** (Current) | **📖 Full Navigation**: [📚 Documentation Center](../)
+**🌐 Language**: [🇨🇳 中文文档](../zh/) | **🇺🇸 English Docs** (Current) | **📖 GitBook Center**: [📚 GitBook Documentation Hub](../gitbook/) | **📖 Full Navigation**: [📚 Documentation Center](../)

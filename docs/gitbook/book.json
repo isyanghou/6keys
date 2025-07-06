@@ -1,0 +1,91 @@
+{
+  "title": "六鑰臨界理論 (Six-Key Criticality Theory)",
+  "description": "一個基於神經流形動力學的意識理論框架，探索大腦臨界狀態與意識現象的深層聯繫。",
+  "author": "六鑰臨界理論研究團隊",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "katex",
+    "search-pro",
+    "expandable-chapters",
+    "anchor-navigation-ex",
+    "back-to-top-button",
+    "chapter-fold",
+    "code",
+    "splitter",
+    "tbfed-pagefooter",
+    "theme-comscore",
+    "-sharing",
+    "-fontsettings"
+  ],
+  "pluginsConfig": {
+    "katex": {
+      "delimiters": [
+        {"left": "$$", "right": "$$", "display": true},
+        {"left": "$", "right": "$", "display": false}
+      ]
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "associatedWithSummary": true,
+      "printLog": false,
+      "multipleH1": true,
+      "mode": "float",
+      "showGoTop": true,
+      "float": {
+        "floatIcon": "fa fa-navicon",
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      },
+      "pageTop": {
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      }
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright © 2025 六鑰臨界理論研究團隊",
+      "modify_label": "最後修改時間：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "theme-comscore": {
+      "nav": [
+        {
+          "url": "https://github.com/sixkeys-project",
+          "target": "_blank",
+          "name": "GitHub"
+        }
+      ]
+    },
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": ["六鑰臨界", "戈德斯通模", "臨界管道", "神經流形", "意識理論"]
+    }
+  },
+  "variables": {
+    "version": "v1.2",
+    "updated": "2025-01"
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 12,
+    "fontFamily": "Arial",
+    "paperSize": "a4",
+    "chapterMark": "pagebreak",
+    "pageBreaksBefore": "/",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
+    }
+  }
+}

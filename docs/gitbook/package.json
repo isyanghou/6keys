@@ -1,0 +1,52 @@
+{
+  "name": "sixkeys-criticality-gitbook",
+  "version": "1.2.0",
+  "description": "六鑰臨界理論 GitBook 文檔",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build",
+    "install": "gitbook install",
+    "pdf": "gitbook pdf . ./六鑰臨界理論.pdf",
+    "epub": "gitbook epub . ./六鑰臨界理論.epub",
+    "mobi": "gitbook mobi . ./六鑰臨界理論.mobi",
+    "clean": "rm -rf _book",
+    "deploy": "npm run build && gh-pages -d _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sixkeys-project/sixkeys.git"
+  },
+  "keywords": [
+    "consciousness",
+    "neuroscience",
+    "criticality",
+    "goldstone",
+    "manifold",
+    "六鑰臨界",
+    "意識理論",
+    "神經科學"
+  ],
+  "author": "六鑰臨界理論研究團隊",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.3.7",
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "gitbook-plugin-theme-comscore": "^0.0.3"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  }
+}

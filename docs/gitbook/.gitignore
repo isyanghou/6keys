@@ -1,0 +1,41 @@
+# GitBook 生成的文件
+_book/
+node_modules/
+
+# GitBook 插件
+.grunt/
+
+# 臨時文件
+*.tmp
+*.temp
+
+# 日誌文件
+*.log
+npm-debug.log*
+
+# 編輯器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系統文件
+.DS_Store
+Thumbs.db
+
+# 備份文件
+*.bak
+*.backup
+
+# GitBook 緩存
+.gitbook/
+
+# 構建產物
+build/
+dist/
+out/
+
+# 依賴文件
+package-lock.json
+yarn.lock
