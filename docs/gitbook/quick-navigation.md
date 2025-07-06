@@ -1,5 +1,12 @@
 # 快速導航
 
+## 📥 論文 PDF 快速下載
+
+**一鍵下載完整論文：**
+- **📄 [中文版 PDF](pdfs/六鑰臨界.pdf)** | **📄 [English PDF](pdfs/Six-Key_Criticality.pdf)** | **📄 [Extended English PDF](pdfs/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**
+
+---
+
 ## 🚀 新手入門
 
 如果您是第一次接觸六鑰臨界理論，建議按以下順序閱讀：

@@ -10,6 +10,21 @@
 
 ## 📚 文檔架構總覽
 
+### 📥 論文 PDF 下載
+
+**直接下載完整論文 PDF 版本：**
+
+- **📄 [六鑰臨界理論論文 - 中文版 PDF](pdfs/六鑰臨界.pdf)** 
+  *完整的中文學術論文，包含所有理論細節、數學推導和實驗設計*
+
+- **📄 [Six-Key Criticality Theory - English PDF](pdfs/Six-Key_Criticality.pdf)**  
+  *Complete English academic paper with full theoretical details, mathematical derivations and experimental design*
+
+- **📄 [Six-Key Criticality: The Neural Manifold Path to Consciousness - Extended English PDF](pdfs/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**  
+  *Extended version with additional neural manifold analysis*
+
+---
+
 ### 🎯 快速導覽系統
 - **[📍 快速導航](quick-navigation.md)** - 根據您的背景和興趣找到最佳學習路徑
 - **[🧠 核心概念速覽](core-concepts/README.md)** - 理論的基本概念和核心思想
