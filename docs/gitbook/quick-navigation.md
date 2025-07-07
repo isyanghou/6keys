@@ -3,7 +3,7 @@
 ## 📥 論文 PDF 快速下載
 
 **一鍵下載完整論文：**
-- **📄 [中文版 PDF](pdfs/六鑰臨界.pdf)** 🇨🇳 ([DOI](https://doi.org/10.5281/zenodo.15831002)) | **📄 [English PDF](pdfs/Six-Key_Criticality.pdf)** 🇬🇧 ([DOI](https://doi.org/10.5281/zenodo.15830747)) | **📄 [Extended English PDF](pdfs/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**
+- **📄 [中文版 PDF](pdfs/六鑰臨界.pdf)** 🇨🇳 ([DOI](https://doi.org/10.5281/zenodo.15831002)) | **📄 [English PDF](pdfs/Six-Key_Criticality.pdf)** 🇬🇧 ([DOI](https://doi.org/10.5281/zenodo.15830747))
 
 **📖 [學術引用格式](citation.md)** - APA、MLA、Chicago、BibTeX 完整引用格式
 

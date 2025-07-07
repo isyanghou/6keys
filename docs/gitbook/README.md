@@ -22,9 +22,6 @@
   *Complete English academic paper with full theoretical details, mathematical derivations and experimental design*  
   **DOI:** [`https://doi.org/10.5281/zenodo.15830747`](https://doi.org/10.5281/zenodo.15830747)
 
-- **📄 [Six-Key Criticality: The Neural Manifold Path to Consciousness - Extended English PDF](pdfs/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**  
-  *Extended version with additional neural manifold analysis*
-
 **📖 學術引用：** [如何引用本論文？](citation.md) - 提供完整的 APA、MLA、Chicago 和 BibTeX 引用格式
 
 ---

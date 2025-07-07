@@ -11,10 +11,14 @@
             "id": "1940da9b19d39110",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/Six-Keys_Criticality_QA.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Six-Keys_Criticality_QA"
             }
           }
         ]
@@ -163,7 +167,9 @@
   },
   "active": "1940da9b19d39110",
   "lastOpenFiles": [
+    "docs/zh/quickstart.md",
     "docs/zh/Six-Keys_Criticality_QA.md",
-    "docs/zh/Six-Keys_Criticality_QA.md"
+    "docs/zh/Six-Keys_Criticality_QA.md_backup_20250706_143659",
+    "內部py庫/fix_anchor_links.py"
   ]
 }
