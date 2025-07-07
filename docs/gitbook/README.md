@@ -14,14 +14,18 @@
 
 **直接下載完整論文 PDF 版本：**
 
-- **📄 [六鑰臨界理論論文 - 中文版 PDF](pdfs/六鑰臨界.pdf)** 
-  *完整的中文學術論文，包含所有理論細節、數學推導和實驗設計*
+- **📄 [六鑰臨界理論論文 - 中文版 PDF](pdfs/六鑰臨界.pdf)** 🇨🇳  
+  *完整的中文學術論文，包含所有理論細節、數學推導和實驗設計*  
+  **DOI:** [`https://doi.org/10.5281/zenodo.15831002`](https://doi.org/10.5281/zenodo.15831002)
 
-- **📄 [Six-Key Criticality Theory - English PDF](pdfs/Six-Key_Criticality.pdf)**  
-  *Complete English academic paper with full theoretical details, mathematical derivations and experimental design*
+- **📄 [Six-Key Criticality Theory - English PDF](pdfs/Six-Key_Criticality.pdf)** 🇬🇧  
+  *Complete English academic paper with full theoretical details, mathematical derivations and experimental design*  
+  **DOI:** [`https://doi.org/10.5281/zenodo.15830747`](https://doi.org/10.5281/zenodo.15830747)
 
 - **📄 [Six-Key Criticality: The Neural Manifold Path to Consciousness - Extended English PDF](pdfs/Six-Key_Criticality_The_Neural_Manifold_Path_to_Consciousness.pdf)**  
   *Extended version with additional neural manifold analysis*
+
+**📖 學術引用：** [如何引用本論文？](citation.md) - 提供完整的 APA、MLA、Chicago 和 BibTeX 引用格式
 
 ---
 

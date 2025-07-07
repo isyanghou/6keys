@@ -3,6 +3,7 @@
 ## 🌟 文檔中心導覽
 * [文檔中心首頁](README.md)
 * [📍 快速導航](quick-navigation.md)
+* [📖 學術引用指南](citation.md)
 
 ---
 
